@@ -1,0 +1,2501 @@
+CustomerID,CustomerName,LoyaltyTier,AgeGroup,HomeCity,SignupDate
+1,Jordan Lopez,Bronze,25-34,Toronto,2023-12-13
+2,Olivia Wilson,Silver,35-44,Edmonton,2024-09-17
+3,Priya Clark,Platinum,35-44,Edmonton,2023-09-16
+4,Jordan Walker,Gold,18-24,Boston,2023-07-22
+5,Casey Tremblay,Bronze,18-24,Edmonton,2025-01-05
+6,Liam Scott,Bronze,25-34,Ottawa,2024-12-16
+7,Sofia Lopez,Gold,45-54,Vancouver,2022-10-11
+8,Ethan Lopez,Gold,35-44,Calgary,2025-02-09
+9,Maya Nguyen,Silver,35-44,Chicago,2023-03-24
+10,Amir Roy,Silver,25-34,Edmonton,2022-07-08
+11,Maya Brown,Bronze,25-34,New York,2025-04-18
+12,Morgan Young,Bronze,25-34,Boston,2022-11-23
+13,Lucas Lee,Bronze,25-34,Vancouver,2022-10-06
+14,Priya Gagnon,Bronze,35-44,Chicago,2023-01-05
+15,Liam Wilson,Bronze,18-24,New York,2023-11-05
+16,Wei Singh,Gold,25-34,Seattle,2022-08-16
+17,Jordan Martin,Bronze,25-34,Boston,2022-08-07
+18,Fatima Tremblay,Bronze,25-34,New York,2023-06-22
+19,Chen Gagnon,Silver,35-44,Toronto,2022-10-26
+20,Riley Lee,Bronze,25-34,Edmonton,2022-09-22
+21,Morgan Lopez,Bronze,55+,Ottawa,2025-06-03
+22,Ethan Brown,Silver,45-54,New York,2024-03-26
+23,Sam Scott,Bronze,45-54,Boston,2022-01-19
+24,Wei Clark,Silver,35-44,Edmonton,2022-05-20
+25,Olivia Lopez,Gold,35-44,Vancouver,2025-01-20
+26,Sofia Patel,Bronze,35-44,Toronto,2023-01-05
+27,Drew Roy,Gold,25-34,New York,2022-07-28
+28,Maya Smith,Gold,25-34,New York,2024-06-30
+29,Liam Patel,Gold,35-44,Calgary,2025-02-22
+30,Sofia Walker,Silver,18-24,Boston,2023-07-01
+31,Diego Khan,Silver,18-24,Boston,2024-10-14
+32,Drew Scott,Silver,45-54,Edmonton,2023-08-01
+33,Priya Garcia,Silver,18-24,Toronto,2022-05-30
+34,Fatima Brown,Bronze,25-34,Seattle,2024-12-29
+35,Sam Roy,Platinum,35-44,Calgary,2025-06-12
+36,Lucas Patel,Silver,18-24,New York,2025-09-10
+37,Wei Nguyen,Silver,45-54,Chicago,2022-05-18
+38,Ethan Roy,Bronze,18-24,Vancouver,2024-02-14
+39,Avery Singh,Bronze,45-54,New York,2024-05-04
+40,Noah Walker,Silver,35-44,Toronto,2022-04-19
+41,Diego Wilson,Silver,25-34,Seattle,2025-07-27
+42,Morgan Gagnon,Bronze,18-24,Toronto,2022-05-21
+43,Emma Khan,Bronze,25-34,Edmonton,2023-01-04
+44,Jordan Garcia,Bronze,25-34,Vancouver,2025-08-19
+45,Lucas Gagnon,Silver,25-34,Toronto,2024-02-01
+46,Priya Gagnon,Bronze,55+,Calgary,2024-07-19
+47,Chen Brown,Platinum,25-34,Chicago,2023-11-08
+48,Fatima Chen,Bronze,45-54,Ottawa,2024-10-27
+49,Casey Walker,Bronze,18-24,Montreal,2022-04-22
+50,Emma Nguyen,Bronze,55+,Ottawa,2024-07-14
+51,Amir Patel,Silver,25-34,Ottawa,2022-04-02
+52,Amir Smith,Bronze,25-34,Montreal,2022-09-04
+53,Lucas Lopez,Silver,35-44,Edmonton,2023-11-25
+54,Lucas Walker,Platinum,18-24,Boston,2023-09-07
+55,Wei Khan,Bronze,45-54,New York,2022-07-28
+56,Riley Lopez,Silver,25-34,Boston,2024-12-29
+57,Liam Roy,Bronze,25-34,Boston,2023-02-18
+58,Maya Martin,Bronze,25-34,Vancouver,2025-04-01
+59,Alex Nguyen,Bronze,35-44,Chicago,2022-01-21
+60,Riley Nguyen,Bronze,18-24,Ottawa,2022-11-22
+61,Priya Walker,Silver,18-24,New York,2023-02-11
+62,Olivia Roy,Silver,18-24,Ottawa,2024-03-27
+63,Chen Martin,Silver,25-34,Boston,2023-07-04
+64,Sam Lopez,Silver,18-24,Toronto,2022-08-04
+65,Noah Lee,Silver,55+,Montreal,2024-02-22
+66,Noah Martin,Bronze,25-34,Vancouver,2025-08-05
+67,Jordan Martin,Bronze,35-44,New York,2022-07-03
+68,Lucas Garcia,Bronze,25-34,Toronto,2022-12-12
+69,Emma Smith,Silver,25-34,Montreal,2023-10-18
+70,Avery Wilson,Platinum,25-34,Vancouver,2024-09-22
+71,Hana Singh,Bronze,25-34,Boston,2022-07-07
+72,Riley Wilson,Silver,25-34,Chicago,2022-11-13
+73,Hana Clark,Silver,25-34,New York,2022-11-19
+74,Alex Singh,Gold,25-34,Edmonton,2024-04-23
+75,Amir Tremblay,Silver,55+,Vancouver,2022-04-23
+76,Chen Chen,Silver,25-34,Seattle,2024-06-22
+77,Fatima Chen,Silver,25-34,Ottawa,2023-08-06
+78,Priya Walker,Gold,18-24,Ottawa,2023-03-26
+79,Taylor Martin,Bronze,25-34,Montreal,2025-03-27
+80,Maya Lopez,Gold,35-44,Montreal,2025-01-26
+81,Hana Walker,Bronze,18-24,Calgary,2025-01-05
+82,Priya Wilson,Gold,35-44,Chicago,2025-04-27
+83,Priya Gagnon,Bronze,25-34,New York,2022-11-17
+84,Avery Patel,Bronze,18-24,Vancouver,2025-03-17
+85,Avery Smith,Bronze,55+,Montreal,2022-08-30
+86,Jordan Tremblay,Bronze,25-34,New York,2023-03-30
+87,Lucas Khan,Bronze,45-54,Montreal,2024-02-01
+88,Ethan Roy,Bronze,25-34,Chicago,2024-10-16
+89,Ethan Patel,Bronze,55+,Calgary,2024-03-02
+90,Fatima Kim,Bronze,25-34,Edmonton,2024-02-06
+91,Diego Patel,Silver,25-34,Chicago,2023-05-31
+92,Maya Walker,Gold,35-44,Vancouver,2024-03-22
+93,Maya Wilson,Silver,25-34,Calgary,2023-10-13
+94,Morgan Brown,Bronze,25-34,Edmonton,2023-10-17
+95,Casey Garcia,Bronze,55+,Montreal,2024-03-13
+96,Ethan Lee,Gold,35-44,Toronto,2024-04-02
+97,Emma Brown,Bronze,35-44,Montreal,2023-03-29
+98,Diego Tremblay,Bronze,35-44,Ottawa,2022-07-05
+99,Avery Nguyen,Gold,45-54,New York,2023-02-15
+100,Avery Scott,Platinum,45-54,Toronto,2023-07-15
+101,Drew Young,Bronze,35-44,Vancouver,2022-08-09
+102,Maya Walker,Silver,25-34,Seattle,2022-09-01
+103,Wei Chen,Bronze,18-24,Edmonton,2025-07-26
+104,Lucas Scott,Silver,35-44,New York,2023-01-19
+105,Riley Lopez,Bronze,45-54,New York,2024-10-09
+106,Riley Khan,Bronze,25-34,Montreal,2022-06-25
+107,Lucas Wilson,Silver,18-24,New York,2025-08-25
+108,Sofia Chen,Bronze,25-34,Montreal,2022-10-19
+109,Sam Tremblay,Silver,25-34,New York,2023-06-24
+110,Wei Young,Bronze,45-54,New York,2024-12-07
+111,Taylor Roy,Gold,18-24,Seattle,2022-10-03
+112,Ethan Singh,Gold,35-44,Chicago,2024-01-24
+113,Sofia Garcia,Bronze,35-44,Toronto,2024-12-12
+114,Amir Martin,Silver,55+,Montreal,2022-02-02
+115,Liam Patel,Bronze,18-24,Edmonton,2022-02-04
+116,Wei Clark,Bronze,55+,Vancouver,2024-12-16
+117,Alex Lopez,Bronze,35-44,New York,2022-12-26
+118,Maya Khan,Gold,35-44,Seattle,2025-05-30
+119,Olivia Wilson,Gold,18-24,Montreal,2025-06-24
+120,Jamie Lee,Gold,25-34,Seattle,2025-04-21
+121,Taylor Martin,Gold,35-44,Seattle,2025-09-27
+122,Jordan Lee,Platinum,25-34,Chicago,2025-02-01
+123,Emma Tremblay,Bronze,25-34,Toronto,2023-06-10
+124,Sofia Wilson,Gold,35-44,Montreal,2025-09-21
+125,Lucas Smith,Silver,35-44,Ottawa,2023-04-19
+126,Morgan Roy,Bronze,18-24,Ottawa,2024-03-14
+127,Morgan Garcia,Silver,25-34,Toronto,2022-01-08
+128,Olivia Nguyen,Bronze,25-34,Calgary,2025-08-11
+129,Olivia Nguyen,Bronze,55+,Toronto,2024-03-21
+130,Morgan Martin,Bronze,55+,Montreal,2025-07-23
+131,Lucas Patel,Bronze,25-34,Chicago,2023-04-29
+132,Jamie Young,Bronze,18-24,Seattle,2023-03-06
+133,Hana Martin,Gold,25-34,Chicago,2023-12-17
+134,Wei Garcia,Silver,25-34,Toronto,2025-03-28
+135,Emma Martin,Silver,45-54,New York,2024-01-22
+136,Jamie Smith,Bronze,25-34,New York,2024-12-21
+137,Taylor Scott,Bronze,18-24,Ottawa,2022-10-21
+138,Priya Roy,Bronze,18-24,Chicago,2024-11-28
+139,Wei Lopez,Gold,25-34,Calgary,2024-09-30
+140,Sam Tremblay,Bronze,45-54,Chicago,2025-05-12
+141,Riley Roy,Silver,35-44,Ottawa,2022-03-20
+142,Olivia Roy,Silver,35-44,New York,2023-06-11
+143,Wei Young,Silver,25-34,Ottawa,2022-05-02
+144,Morgan Martin,Gold,55+,Chicago,2023-07-03
+145,Liam Roy,Bronze,25-34,New York,2024-11-05
+146,Amir Chen,Gold,45-54,Toronto,2024-05-26
+147,Diego Garcia,Silver,45-54,Montreal,2024-10-28
+148,Liam Kim,Silver,25-34,Vancouver,2024-10-07
+149,Chen Wilson,Silver,45-54,Toronto,2025-09-21
+150,Jamie Smith,Gold,25-34,Toronto,2025-04-20
+151,Drew Gagnon,Platinum,35-44,Chicago,2024-03-14
+152,Alex Clark,Bronze,18-24,Chicago,2025-04-14
+153,Liam Nguyen,Gold,25-34,Edmonton,2022-03-07
+154,Jamie Martin,Silver,25-34,Chicago,2024-09-15
+155,Jamie Nguyen,Bronze,18-24,New York,2023-12-17
+156,Olivia Walker,Gold,18-24,Toronto,2025-08-03
+157,Jordan Chen,Bronze,25-34,Boston,2023-11-22
+158,Riley Walker,Silver,35-44,Toronto,2022-09-02
+159,Sofia Khan,Bronze,25-34,Seattle,2024-09-19
+160,Diego Lopez,Bronze,25-34,Vancouver,2025-07-25
+161,Avery Nguyen,Gold,55+,Ottawa,2022-01-23
+162,Emma Young,Bronze,55+,Montreal,2022-03-29
+163,Hana Singh,Bronze,18-24,New York,2024-06-24
+164,Casey Smith,Bronze,25-34,Seattle,2024-02-01
+165,Taylor Martin,Bronze,35-44,Edmonton,2024-01-22
+166,Liam Brown,Gold,35-44,Ottawa,2022-05-04
+167,Jamie Gagnon,Gold,25-34,Chicago,2024-02-23
+168,Wei Gagnon,Bronze,35-44,Boston,2024-02-18
+169,Hana Garcia,Silver,18-24,Calgary,2025-03-09
+170,Casey Scott,Bronze,25-34,Edmonton,2023-06-19
+171,Emma Chen,Silver,35-44,Chicago,2023-04-22
+172,Emma Kim,Bronze,35-44,Vancouver,2022-04-22
+173,Fatima Chen,Bronze,45-54,Toronto,2024-02-16
+174,Hana Young,Bronze,18-24,Ottawa,2024-06-06
+175,Morgan Patel,Silver,18-24,New York,2023-01-20
+176,Liam Smith,Silver,18-24,Chicago,2024-09-28
+177,Jamie Wilson,Bronze,18-24,Boston,2025-07-09
+178,Hana Scott,Gold,18-24,New York,2022-08-27
+179,Taylor Clark,Silver,25-34,Vancouver,2024-02-24
+180,Jordan Khan,Bronze,25-34,Calgary,2024-08-09
+181,Chen Clark,Gold,35-44,Toronto,2022-01-26
+182,Casey Clark,Gold,25-34,Vancouver,2022-09-03
+183,Jordan Kim,Bronze,18-24,New York,2023-06-27
+184,Wei Garcia,Silver,35-44,Chicago,2022-07-08
+185,Alex Lopez,Bronze,18-24,Chicago,2023-05-03
+186,Avery Walker,Silver,45-54,Seattle,2022-07-21
+187,Priya Brown,Bronze,18-24,Toronto,2025-05-13
+188,Fatima Tremblay,Silver,25-34,Seattle,2024-03-31
+189,Sofia Khan,Bronze,45-54,Montreal,2023-03-27
+190,Drew Chen,Silver,35-44,New York,2024-12-02
+191,Alex Young,Gold,35-44,Chicago,2022-01-26
+192,Diego Singh,Bronze,35-44,Seattle,2024-03-28
+193,Alex Nguyen,Gold,18-24,New York,2024-07-25
+194,Sam Gagnon,Platinum,35-44,Montreal,2025-01-13
+195,Fatima Patel,Gold,45-54,Edmonton,2022-11-01
+196,Sofia Patel,Bronze,55+,Boston,2024-03-21
+197,Drew Martin,Gold,25-34,Edmonton,2024-11-17
+198,Ethan Clark,Bronze,25-34,Calgary,2024-12-28
+199,Sam Patel,Bronze,35-44,Calgary,2022-08-29
+200,Jamie Garcia,Gold,25-34,Edmonton,2025-08-30
+201,Hana Lopez,Silver,25-34,Toronto,2023-01-11
+202,Avery Scott,Silver,18-24,Chicago,2023-06-20
+203,Maya Kim,Bronze,18-24,Ottawa,2022-09-21
+204,Priya Nguyen,Gold,25-34,Chicago,2022-07-25
+205,Diego Smith,Silver,18-24,Toronto,2022-12-16
+206,Morgan Singh,Bronze,18-24,Edmonton,2022-07-05
+207,Riley Nguyen,Gold,18-24,Calgary,2024-09-30
+208,Alex Walker,Bronze,55+,Edmonton,2024-03-29
+209,Hana Nguyen,Bronze,18-24,Calgary,2023-06-19
+210,Jamie Kim,Silver,18-24,Seattle,2024-01-20
+211,Diego Walker,Platinum,25-34,Toronto,2024-04-07
+212,Lucas Martin,Bronze,25-34,Chicago,2022-09-10
+213,Priya Patel,Bronze,55+,New York,2023-02-11
+214,Chen Gagnon,Bronze,55+,Boston,2025-04-23
+215,Alex Khan,Gold,25-34,Ottawa,2022-01-17
+216,Jordan Khan,Bronze,25-34,Toronto,2025-08-03
+217,Amir Nguyen,Silver,25-34,Vancouver,2025-08-14
+218,Priya Nguyen,Platinum,18-24,Vancouver,2022-12-13
+219,Noah Young,Bronze,25-34,Boston,2023-03-16
+220,Jordan Brown,Silver,18-24,Seattle,2022-10-11
+221,Hana Garcia,Silver,18-24,Calgary,2024-02-08
+222,Taylor Roy,Gold,35-44,Boston,2022-10-21
+223,Maya Walker,Bronze,18-24,Toronto,2024-12-19
+224,Jamie Scott,Bronze,18-24,Boston,2023-06-15
+225,Liam Chen,Bronze,25-34,Toronto,2025-08-18
+226,Hana Young,Silver,25-34,New York,2025-03-14
+227,Maya Smith,Silver,18-24,Vancouver,2023-07-04
+228,Noah Martin,Bronze,18-24,Calgary,2024-03-27
+229,Taylor Lee,Bronze,18-24,Montreal,2022-02-03
+230,Chen Nguyen,Gold,25-34,Calgary,2022-04-03
+231,Sofia Nguyen,Bronze,45-54,Seattle,2023-11-25
+232,Sofia Wilson,Bronze,55+,Seattle,2023-10-10
+233,Alex Scott,Silver,25-34,Vancouver,2023-06-30
+234,Morgan Martin,Bronze,25-34,Montreal,2022-05-04
+235,Morgan Young,Bronze,35-44,Edmonton,2025-02-24
+236,Sofia Gagnon,Bronze,35-44,New York,2023-07-11
+237,Priya Roy,Bronze,18-24,Ottawa,2023-10-06
+238,Emma Lopez,Silver,18-24,Boston,2023-07-07
+239,Chen Smith,Silver,25-34,Chicago,2023-11-13
+240,Olivia Nguyen,Silver,35-44,Seattle,2024-06-07
+241,Jamie Gagnon,Bronze,18-24,Edmonton,2024-11-12
+242,Riley Lopez,Gold,25-34,Vancouver,2024-01-23
+243,Wei Singh,Bronze,25-34,Vancouver,2022-08-16
+244,Avery Kim,Silver,25-34,Boston,2025-04-13
+245,Lucas Lee,Bronze,25-34,Calgary,2023-01-25
+246,Diego Clark,Silver,35-44,Ottawa,2022-01-23
+247,Sofia Lee,Bronze,25-34,New York,2022-02-23
+248,Jamie Wilson,Bronze,25-34,Ottawa,2024-11-26
+249,Jordan Brown,Bronze,18-24,Chicago,2023-06-15
+250,Diego Wilson,Bronze,45-54,Calgary,2022-02-01
+251,Jordan Walker,Bronze,25-34,Vancouver,2025-01-16
+252,Hana Clark,Silver,18-24,Toronto,2023-02-21
+253,Riley Roy,Gold,25-34,Ottawa,2025-09-01
+254,Liam Singh,Bronze,45-54,Chicago,2025-04-20
+255,Riley Singh,Gold,35-44,Edmonton,2022-03-07
+256,Hana Khan,Silver,45-54,Chicago,2024-08-03
+257,Chen Gagnon,Gold,35-44,Chicago,2024-04-06
+258,Diego Nguyen,Silver,25-34,Toronto,2022-08-24
+259,Fatima Tremblay,Silver,25-34,Vancouver,2023-04-15
+260,Wei Martin,Silver,18-24,Seattle,2023-11-04
+261,Avery Nguyen,Silver,35-44,Calgary,2022-07-20
+262,Morgan Gagnon,Gold,35-44,Edmonton,2024-09-16
+263,Jamie Garcia,Bronze,18-24,Edmonton,2023-01-15
+264,Diego Nguyen,Bronze,45-54,Boston,2025-07-08
+265,Fatima Young,Bronze,25-34,Chicago,2025-01-03
+266,Noah Patel,Gold,18-24,Seattle,2024-05-19
+267,Taylor Chen,Bronze,25-34,New York,2022-06-14
+268,Noah Patel,Silver,45-54,Edmonton,2022-02-03
+269,Wei Nguyen,Gold,55+,Vancouver,2022-07-19
+270,Liam Smith,Platinum,25-34,Ottawa,2023-11-16
+271,Ethan Tremblay,Bronze,55+,Boston,2024-12-06
+272,Morgan Patel,Silver,45-54,Toronto,2022-07-29
+273,Amir Tremblay,Gold,45-54,New York,2024-08-27
+274,Priya Martin,Bronze,45-54,Calgary,2022-03-07
+275,Maya Walker,Silver,25-34,Boston,2022-12-30
+276,Amir Brown,Bronze,35-44,Chicago,2024-03-30
+277,Amir Garcia,Silver,35-44,Edmonton,2025-02-08
+278,Hana Kim,Silver,35-44,Edmonton,2024-11-30
+279,Sofia Clark,Bronze,18-24,Calgary,2023-12-31
+280,Lucas Clark,Bronze,35-44,Vancouver,2022-02-19
+281,Liam Smith,Bronze,55+,Toronto,2023-02-06
+282,Maya Patel,Bronze,25-34,Toronto,2024-12-09
+283,Fatima Singh,Silver,55+,Boston,2022-04-22
+284,Casey Singh,Bronze,25-34,Chicago,2024-08-25
+285,Olivia Martin,Bronze,18-24,Toronto,2024-08-22
+286,Diego Wilson,Silver,18-24,Vancouver,2024-10-27
+287,Jamie Smith,Silver,45-54,New York,2022-10-25
+288,Alex Brown,Silver,35-44,Boston,2022-12-02
+289,Diego Kim,Gold,25-34,Boston,2022-09-29
+290,Fatima Nguyen,Bronze,35-44,New York,2023-06-24
+291,Jordan Gagnon,Gold,25-34,Toronto,2023-12-19
+292,Jordan Tremblay,Bronze,25-34,Montreal,2022-06-14
+293,Priya Young,Silver,45-54,Calgary,2024-02-17
+294,Ethan Tremblay,Platinum,35-44,Toronto,2022-11-24
+295,Amir Gagnon,Gold,35-44,Vancouver,2024-02-10
+296,Amir Young,Silver,35-44,Vancouver,2023-02-19
+297,Casey Scott,Silver,55+,Chicago,2025-07-31
+298,Avery Gagnon,Bronze,25-34,Vancouver,2023-03-14
+299,Noah Lopez,Silver,25-34,Chicago,2025-04-08
+300,Emma Lee,Silver,18-24,Boston,2022-08-28
+301,Emma Lopez,Platinum,35-44,New York,2022-04-27
+302,Sofia Nguyen,Bronze,35-44,Seattle,2022-09-16
+303,Amir Kim,Bronze,35-44,Seattle,2023-07-29
+304,Avery Kim,Silver,25-34,Montreal,2025-05-20
+305,Hana Clark,Bronze,18-24,Calgary,2022-08-30
+306,Amir Roy,Bronze,35-44,Edmonton,2024-12-09
+307,Lucas Brown,Bronze,55+,Chicago,2024-08-12
+308,Ethan Lee,Silver,25-34,Toronto,2023-04-17
+309,Riley Chen,Bronze,18-24,Calgary,2023-04-06
+310,Sam Nguyen,Bronze,25-34,Montreal,2025-07-22
+311,Priya Roy,Bronze,25-34,Montreal,2024-09-06
+312,Morgan Wilson,Gold,25-34,Boston,2022-11-24
+313,Emma Singh,Silver,25-34,Montreal,2025-06-03
+314,Avery Brown,Bronze,35-44,Boston,2023-07-12
+315,Maya Brown,Bronze,25-34,Chicago,2022-04-20
+316,Sofia Garcia,Silver,25-34,Boston,2025-01-19
+317,Priya Brown,Bronze,18-24,Ottawa,2025-04-05
+318,Morgan Walker,Silver,55+,Ottawa,2023-08-30
+319,Casey Chen,Bronze,25-34,Calgary,2024-08-22
+320,Lucas Young,Gold,25-34,Edmonton,2022-11-18
+321,Olivia Young,Bronze,18-24,Boston,2025-03-10
+322,Chen Roy,Silver,35-44,Calgary,2023-05-20
+323,Lucas Garcia,Bronze,45-54,Ottawa,2023-01-02
+324,Wei Kim,Platinum,18-24,Chicago,2023-11-17
+325,Hana Gagnon,Platinum,18-24,Chicago,2023-01-02
+326,Maya Walker,Silver,18-24,New York,2024-04-30
+327,Casey Gagnon,Bronze,35-44,New York,2024-10-21
+328,Liam Kim,Bronze,55+,Chicago,2023-07-10
+329,Lucas Lee,Gold,25-34,Calgary,2024-12-09
+330,Sam Chen,Silver,25-34,Ottawa,2023-08-14
+331,Morgan Khan,Bronze,35-44,New York,2025-08-22
+332,Alex Singh,Bronze,35-44,Calgary,2022-12-28
+333,Noah Walker,Bronze,25-34,Boston,2024-08-23
+334,Maya Clark,Gold,18-24,Boston,2024-01-04
+335,Fatima Nguyen,Silver,25-34,Calgary,2025-07-16
+336,Diego Lee,Silver,45-54,Vancouver,2022-10-28
+337,Emma Tremblay,Silver,35-44,Calgary,2022-09-27
+338,Emma Khan,Bronze,35-44,New York,2025-04-03
+339,Noah Tremblay,Bronze,45-54,New York,2025-05-19
+340,Liam Young,Bronze,25-34,Edmonton,2024-10-20
+341,Sofia Nguyen,Silver,25-34,Edmonton,2023-10-13
+342,Diego Scott,Bronze,18-24,Chicago,2023-07-17
+343,Morgan Gagnon,Bronze,45-54,Montreal,2024-07-02
+344,Priya Martin,Bronze,35-44,Ottawa,2024-10-20
+345,Wei Lopez,Bronze,25-34,Boston,2023-01-14
+346,Hana Lopez,Silver,18-24,Chicago,2022-01-10
+347,Diego Young,Bronze,35-44,New York,2022-04-11
+348,Jordan Chen,Bronze,35-44,Calgary,2023-04-17
+349,Sofia Martin,Silver,35-44,Vancouver,2024-07-22
+350,Sam Tremblay,Bronze,25-34,Calgary,2023-08-27
+351,Liam Lee,Bronze,55+,Toronto,2024-04-27
+352,Morgan Patel,Bronze,35-44,Edmonton,2023-10-06
+353,Taylor Martin,Gold,35-44,Montreal,2022-12-11
+354,Alex Martin,Bronze,35-44,Montreal,2024-10-22
+355,Wei Roy,Silver,55+,Edmonton,2024-09-18
+356,Olivia Kim,Gold,55+,Chicago,2025-08-12
+357,Sofia Lopez,Silver,35-44,Montreal,2025-02-05
+358,Diego Lopez,Bronze,25-34,Chicago,2023-06-05
+359,Maya Roy,Silver,25-34,Edmonton,2024-08-23
+360,Casey Martin,Bronze,45-54,Chicago,2023-04-26
+361,Taylor Young,Bronze,35-44,Vancouver,2025-04-10
+362,Chen Nguyen,Silver,18-24,Chicago,2024-04-16
+363,Lucas Nguyen,Bronze,18-24,New York,2025-02-17
+364,Sofia Tremblay,Bronze,55+,New York,2023-01-21
+365,Maya Walker,Bronze,45-54,Edmonton,2022-01-21
+366,Sofia Wilson,Bronze,55+,Calgary,2022-07-13
+367,Diego Lopez,Bronze,25-34,Edmonton,2023-12-29
+368,Casey Walker,Silver,45-54,Seattle,2025-08-10
+369,Sofia Garcia,Gold,45-54,Boston,2024-05-09
+370,Sofia Clark,Bronze,25-34,Toronto,2025-01-14
+371,Amir Lopez,Silver,18-24,New York,2023-10-05
+372,Emma Chen,Bronze,55+,Seattle,2025-08-06
+373,Lucas Brown,Bronze,18-24,Boston,2025-07-13
+374,Liam Garcia,Bronze,35-44,Calgary,2022-10-26
+375,Jamie Patel,Bronze,35-44,Vancouver,2025-03-27
+376,Hana Nguyen,Bronze,35-44,New York,2022-01-25
+377,Jordan Young,Bronze,25-34,New York,2024-03-22
+378,Liam Wilson,Bronze,35-44,Vancouver,2023-08-23
+379,Sofia Brown,Silver,25-34,Calgary,2023-02-17
+380,Taylor Khan,Bronze,45-54,Vancouver,2025-07-03
+381,Morgan Martin,Bronze,25-34,Toronto,2024-06-26
+382,Diego Young,Bronze,35-44,Toronto,2022-07-09
+383,Drew Lopez,Silver,45-54,Toronto,2022-07-10
+384,Emma Roy,Bronze,18-24,Calgary,2022-06-10
+385,Taylor Brown,Silver,25-34,Edmonton,2023-02-21
+386,Olivia Scott,Bronze,45-54,Calgary,2022-04-05
+387,Alex Khan,Bronze,18-24,Chicago,2022-12-28
+388,Chen Scott,Gold,18-24,Montreal,2024-11-14
+389,Priya Nguyen,Bronze,25-34,Vancouver,2025-04-11
+390,Riley Clark,Bronze,55+,Montreal,2024-12-12
+391,Chen Lee,Bronze,35-44,Montreal,2023-11-11
+392,Taylor Nguyen,Platinum,25-34,Edmonton,2024-08-10
+393,Wei Martin,Silver,55+,Vancouver,2025-07-17
+394,Alex Walker,Silver,25-34,Vancouver,2022-03-15
+395,Liam Smith,Platinum,25-34,New York,2025-05-24
+396,Jordan Roy,Bronze,25-34,Seattle,2024-09-17
+397,Sofia Gagnon,Platinum,25-34,Montreal,2023-06-14
+398,Priya Chen,Bronze,25-34,Ottawa,2023-09-07
+399,Hana Roy,Silver,35-44,Montreal,2023-08-24
+400,Jamie Wilson,Bronze,18-24,Edmonton,2022-08-05
+401,Alex Garcia,Bronze,35-44,Chicago,2022-11-12
+402,Maya Young,Gold,25-34,Ottawa,2023-02-09
+403,Sofia Lopez,Bronze,25-34,Toronto,2022-01-08
+404,Liam Nguyen,Platinum,18-24,Edmonton,2023-11-18
+405,Drew Scott,Bronze,35-44,Chicago,2023-10-15
+406,Sam Clark,Silver,35-44,Edmonton,2023-03-28
+407,Ethan Chen,Platinum,25-34,Chicago,2022-08-30
+408,Lucas Gagnon,Bronze,18-24,New York,2025-08-21
+409,Sam Nguyen,Gold,25-34,Toronto,2024-07-18
+410,Olivia Scott,Silver,45-54,Calgary,2023-10-13
+411,Alex Walker,Silver,25-34,Boston,2024-09-17
+412,Taylor Walker,Bronze,45-54,Edmonton,2023-05-25
+413,Emma Tremblay,Silver,25-34,Ottawa,2022-10-23
+414,Ethan Clark,Silver,18-24,Ottawa,2024-07-11
+415,Chen Smith,Bronze,35-44,New York,2024-11-21
+416,Riley Singh,Bronze,25-34,Calgary,2024-06-10
+417,Wei Nguyen,Bronze,18-24,Edmonton,2024-02-15
+418,Chen Lopez,Gold,55+,Vancouver,2022-01-04
+419,Amir Patel,Bronze,18-24,Vancouver,2024-05-23
+420,Alex Young,Silver,25-34,New York,2024-04-27
+421,Jamie Walker,Platinum,25-34,Toronto,2023-07-20
+422,Fatima Smith,Bronze,25-34,Calgary,2022-11-30
+423,Alex Smith,Bronze,45-54,Vancouver,2025-09-03
+424,Taylor Tremblay,Silver,18-24,Boston,2023-05-30
+425,Amir Lee,Bronze,55+,Boston,2023-01-08
+426,Hana Gagnon,Silver,35-44,Calgary,2024-08-25
+427,Hana Singh,Silver,55+,Montreal,2023-10-23
+428,Jamie Gagnon,Silver,45-54,Montreal,2024-02-03
+429,Riley Tremblay,Bronze,55+,Montreal,2024-06-07
+430,Olivia Gagnon,Silver,35-44,Montreal,2023-05-21
+431,Hana Young,Silver,25-34,Boston,2022-07-28
+432,Taylor Lopez,Bronze,25-34,Toronto,2022-08-18
+433,Chen Walker,Silver,35-44,Toronto,2025-07-11
+434,Amir Gagnon,Gold,25-34,Edmonton,2023-11-24
+435,Wei Smith,Silver,35-44,Montreal,2023-07-26
+436,Wei Singh,Bronze,18-24,Seattle,2023-03-14
+437,Jordan Nguyen,Bronze,45-54,Boston,2024-09-15
+438,Ethan Kim,Bronze,25-34,Boston,2025-06-04
+439,Liam Khan,Bronze,55+,Calgary,2024-11-19
+440,Liam Lee,Bronze,18-24,Calgary,2024-01-03
+441,Jordan Clark,Platinum,18-24,Calgary,2023-10-14
+442,Wei Patel,Bronze,45-54,Ottawa,2025-04-01
+443,Amir Khan,Gold,45-54,Edmonton,2025-03-19
+444,Sam Patel,Bronze,35-44,Seattle,2023-06-19
+445,Alex Chen,Bronze,55+,Montreal,2025-08-14
+446,Jordan Khan,Bronze,25-34,Toronto,2025-02-07
+447,Liam Scott,Bronze,45-54,Edmonton,2025-03-05
+448,Sofia Lee,Silver,25-34,Vancouver,2022-03-19
+449,Maya Tremblay,Platinum,25-34,Boston,2022-06-28
+450,Sam Lee,Gold,25-34,Seattle,2023-02-13
+451,Alex Smith,Bronze,18-24,Chicago,2024-11-08
+452,Casey Clark,Silver,35-44,Vancouver,2022-04-18
+453,Wei Khan,Bronze,35-44,Chicago,2022-04-24
+454,Priya Patel,Gold,18-24,Ottawa,2022-02-13
+455,Drew Tremblay,Silver,55+,Vancouver,2022-09-20
+456,Lucas Patel,Bronze,25-34,Montreal,2025-06-12
+457,Drew Scott,Bronze,18-24,Chicago,2024-09-15
+458,Noah Roy,Bronze,35-44,New York,2024-09-09
+459,Liam Lopez,Bronze,18-24,Vancouver,2023-02-05
+460,Riley Lee,Gold,18-24,Ottawa,2024-05-06
+461,Chen Martin,Silver,35-44,Boston,2024-12-03
+462,Wei Nguyen,Platinum,18-24,New York,2023-12-31
+463,Riley Young,Bronze,18-24,Seattle,2025-03-18
+464,Liam Garcia,Silver,35-44,Calgary,2024-02-20
+465,Priya Martin,Bronze,18-24,Ottawa,2023-03-21
+466,Liam Walker,Silver,45-54,Vancouver,2024-05-25
+467,Riley Lee,Bronze,45-54,New York,2025-07-16
+468,Wei Young,Bronze,18-24,Montreal,2025-02-06
+469,Taylor Nguyen,Silver,25-34,Toronto,2023-11-14
+470,Wei Kim,Bronze,18-24,Seattle,2024-03-28
+471,Ethan Wilson,Bronze,35-44,Edmonton,2025-08-30
+472,Fatima Roy,Silver,18-24,Vancouver,2024-10-22
+473,Taylor Nguyen,Bronze,55+,Edmonton,2023-11-20
+474,Hana Nguyen,Gold,25-34,Boston,2023-01-20
+475,Diego Chen,Silver,35-44,Toronto,2025-05-26
+476,Jordan Garcia,Gold,18-24,Calgary,2025-08-31
+477,Emma Wilson,Silver,25-34,Montreal,2022-04-07
+478,Lucas Lee,Silver,25-34,Toronto,2022-02-13
+479,Priya Lee,Silver,35-44,Toronto,2022-06-07
+480,Hana Wilson,Gold,55+,Calgary,2023-06-14
+481,Taylor Wilson,Silver,18-24,Edmonton,2022-08-08
+482,Chen Singh,Bronze,18-24,Edmonton,2025-04-23
+483,Diego Martin,Bronze,25-34,Boston,2025-06-06
+484,Emma Garcia,Silver,25-34,Calgary,2022-09-05
+485,Diego Smith,Bronze,45-54,Edmonton,2025-02-09
+486,Jamie Wilson,Bronze,55+,Seattle,2022-07-13
+487,Wei Roy,Bronze,45-54,New York,2024-12-14
+488,Taylor Singh,Silver,18-24,Chicago,2023-05-16
+489,Jordan Martin,Bronze,25-34,Montreal,2022-02-25
+490,Avery Martin,Silver,35-44,Boston,2023-08-10
+491,Noah Khan,Silver,25-34,New York,2025-02-01
+492,Liam Lee,Gold,35-44,Edmonton,2025-07-02
+493,Noah Walker,Bronze,25-34,Toronto,2022-06-15
+494,Emma Garcia,Silver,25-34,Edmonton,2025-02-19
+495,Riley Lopez,Silver,45-54,Seattle,2023-02-06
+496,Avery Kim,Bronze,25-34,New York,2023-09-28
+497,Morgan Wilson,Silver,55+,Toronto,2022-05-30
+498,Liam Lee,Bronze,25-34,Montreal,2025-08-25
+499,Liam Brown,Platinum,18-24,Edmonton,2024-12-18
+500,Hana Kim,Bronze,25-34,Seattle,2024-05-29
+501,Amir Khan,Gold,18-24,Calgary,2024-09-23
+502,Liam Clark,Silver,25-34,Seattle,2025-04-11
+503,Taylor Young,Bronze,18-24,Boston,2022-07-16
+504,Chen Kim,Silver,35-44,Montreal,2022-12-04
+505,Sofia Kim,Bronze,45-54,Ottawa,2022-02-21
+506,Riley Lopez,Silver,25-34,Chicago,2023-11-01
+507,Riley Garcia,Silver,18-24,Edmonton,2023-11-08
+508,Maya Gagnon,Bronze,25-34,Seattle,2022-02-10
+509,Drew Roy,Bronze,45-54,Chicago,2024-06-25
+510,Sam Nguyen,Silver,35-44,Calgary,2022-01-13
+511,Sam Tremblay,Bronze,18-24,Toronto,2024-12-22
+512,Chen Gagnon,Gold,25-34,Chicago,2024-08-24
+513,Amir Tremblay,Silver,25-34,Edmonton,2025-01-21
+514,Sam Chen,Silver,25-34,Ottawa,2022-06-12
+515,Noah Garcia,Bronze,18-24,Edmonton,2025-04-07
+516,Maya Patel,Silver,55+,Toronto,2024-01-21
+517,Sofia Garcia,Gold,18-24,Montreal,2025-03-28
+518,Sam Khan,Bronze,18-24,Vancouver,2024-08-11
+519,Fatima Smith,Bronze,18-24,Calgary,2024-06-18
+520,Priya Gagnon,Bronze,35-44,Edmonton,2022-02-14
+521,Ethan Clark,Bronze,25-34,Seattle,2024-08-06
+522,Priya Brown,Silver,25-34,Vancouver,2023-09-07
+523,Ethan Patel,Bronze,25-34,Boston,2025-03-09
+524,Casey Lee,Silver,35-44,Chicago,2024-07-26
+525,Olivia Nguyen,Bronze,25-34,Boston,2022-04-12
+526,Maya Brown,Bronze,55+,Montreal,2025-05-03
+527,Maya Scott,Bronze,25-34,New York,2022-03-28
+528,Sam Scott,Gold,18-24,Montreal,2023-02-14
+529,Wei Lopez,Silver,55+,Calgary,2022-10-25
+530,Priya Garcia,Bronze,45-54,New York,2025-08-27
+531,Lucas Walker,Silver,25-34,Montreal,2022-07-29
+532,Taylor Khan,Bronze,45-54,Toronto,2025-03-03
+533,Sofia Brown,Bronze,25-34,Seattle,2022-11-01
+534,Diego Lee,Bronze,25-34,Boston,2024-06-10
+535,Avery Smith,Platinum,45-54,Ottawa,2022-05-04
+536,Olivia Singh,Silver,35-44,Vancouver,2023-06-21
+537,Sofia Kim,Silver,25-34,Montreal,2024-05-03
+538,Wei Patel,Bronze,35-44,Chicago,2024-09-01
+539,Ethan Patel,Bronze,25-34,Chicago,2025-04-10
+540,Priya Gagnon,Silver,18-24,New York,2025-01-23
+541,Diego Scott,Bronze,55+,Calgary,2023-12-12
+542,Diego Martin,Gold,25-34,Toronto,2023-02-20
+543,Casey Gagnon,Silver,35-44,Montreal,2022-12-24
+544,Amir Scott,Bronze,35-44,Toronto,2025-09-22
+545,Olivia Nguyen,Silver,35-44,Boston,2024-04-13
+546,Maya Wilson,Platinum,25-34,Toronto,2025-05-29
+547,Chen Brown,Bronze,55+,New York,2023-08-18
+548,Avery Tremblay,Silver,35-44,Chicago,2023-10-28
+549,Amir Lopez,Gold,35-44,Vancouver,2025-02-05
+550,Sam Wilson,Bronze,25-34,New York,2024-09-17
+551,Wei Roy,Gold,25-34,Seattle,2022-10-03
+552,Fatima Patel,Bronze,18-24,Calgary,2023-12-19
+553,Jamie Patel,Silver,25-34,Calgary,2022-10-20
+554,Riley Young,Silver,18-24,Montreal,2024-11-08
+555,Diego Smith,Silver,35-44,Calgary,2022-02-11
+556,Emma Singh,Bronze,45-54,Seattle,2025-02-06
+557,Morgan Chen,Silver,25-34,New York,2025-06-26
+558,Morgan Roy,Bronze,25-34,Montreal,2022-02-01
+559,Hana Martin,Bronze,35-44,Edmonton,2024-05-13
+560,Sofia Roy,Bronze,18-24,Boston,2022-04-19
+561,Alex Tremblay,Silver,55+,Toronto,2023-05-09
+562,Riley Singh,Bronze,25-34,Boston,2023-04-06
+563,Chen Gagnon,Bronze,18-24,Montreal,2023-12-13
+564,Chen Lee,Gold,18-24,Montreal,2025-06-11
+565,Liam Lee,Bronze,55+,Calgary,2023-09-25
+566,Priya Walker,Bronze,25-34,Edmonton,2023-06-30
+567,Lucas Lopez,Bronze,35-44,Chicago,2022-05-08
+568,Emma Tremblay,Bronze,18-24,Montreal,2025-04-30
+569,Sofia Brown,Silver,18-24,Montreal,2023-03-08
+570,Sofia Kim,Bronze,45-54,Vancouver,2023-09-26
+571,Fatima Garcia,Bronze,18-24,Seattle,2022-05-07
+572,Diego Gagnon,Platinum,18-24,Chicago,2023-01-31
+573,Avery Roy,Gold,25-34,Calgary,2024-01-29
+574,Liam Lopez,Silver,45-54,New York,2025-05-18
+575,Ethan Clark,Gold,25-34,Chicago,2023-03-27
+576,Drew Kim,Gold,18-24,Seattle,2024-02-08
+577,Priya Young,Bronze,55+,New York,2025-04-14
+578,Jamie Martin,Silver,35-44,Edmonton,2023-05-09
+579,Taylor Clark,Silver,45-54,Chicago,2023-02-08
+580,Drew Garcia,Bronze,35-44,Montreal,2022-03-02
+581,Noah Roy,Bronze,35-44,Vancouver,2025-05-28
+582,Chen Kim,Bronze,25-34,Boston,2022-06-01
+583,Maya Nguyen,Silver,25-34,Toronto,2022-10-23
+584,Alex Brown,Silver,35-44,Edmonton,2022-07-10
+585,Hana Young,Silver,35-44,Seattle,2024-08-27
+586,Emma Lee,Bronze,55+,Ottawa,2023-05-15
+587,Drew Patel,Bronze,35-44,Seattle,2024-08-23
+588,Alex Garcia,Bronze,25-34,Calgary,2024-04-12
+589,Jamie Patel,Silver,25-34,Seattle,2022-01-21
+590,Riley Smith,Gold,35-44,New York,2023-02-26
+591,Emma Young,Gold,25-34,Ottawa,2022-01-06
+592,Ethan Wilson,Gold,45-54,Boston,2022-03-31
+593,Priya Garcia,Gold,35-44,Toronto,2023-10-11
+594,Taylor Martin,Platinum,18-24,Montreal,2022-12-29
+595,Noah Smith,Bronze,35-44,Seattle,2022-05-03
+596,Priya Chen,Bronze,35-44,Seattle,2023-07-14
+597,Morgan Khan,Bronze,55+,Toronto,2023-09-12
+598,Liam Lee,Bronze,25-34,Vancouver,2025-09-21
+599,Ethan Scott,Bronze,35-44,Toronto,2024-06-25
+600,Amir Lee,Bronze,25-34,Montreal,2023-06-23
+601,Chen Roy,Platinum,25-34,Chicago,2023-10-11
+602,Hana Lopez,Bronze,18-24,Ottawa,2022-05-03
+603,Olivia Young,Platinum,45-54,New York,2023-06-14
+604,Maya Khan,Silver,55+,Seattle,2024-03-07
+605,Jamie Scott,Silver,25-34,Seattle,2022-01-29
+606,Emma Lopez,Silver,35-44,Vancouver,2025-06-13
+607,Wei Clark,Bronze,18-24,New York,2023-12-07
+608,Sam Nguyen,Silver,35-44,Calgary,2024-12-13
+609,Maya Khan,Bronze,25-34,Ottawa,2023-01-13
+610,Amir Wilson,Gold,35-44,Montreal,2025-02-19
+611,Olivia Martin,Bronze,18-24,Boston,2023-05-18
+612,Hana Walker,Bronze,35-44,New York,2025-06-25
+613,Priya Scott,Silver,25-34,Edmonton,2023-12-17
+614,Jordan Scott,Silver,35-44,Boston,2024-05-22
+615,Taylor Chen,Bronze,35-44,New York,2022-10-07
+616,Amir Khan,Silver,25-34,Vancouver,2025-09-25
+617,Hana Khan,Bronze,25-34,Montreal,2022-09-21
+618,Emma Garcia,Silver,45-54,Chicago,2022-02-15
+619,Alex Nguyen,Bronze,35-44,Chicago,2023-08-26
+620,Jamie Smith,Bronze,18-24,Toronto,2025-02-17
+621,Maya Lopez,Bronze,25-34,Boston,2025-06-16
+622,Hana Roy,Bronze,25-34,Ottawa,2025-03-20
+623,Chen Scott,Bronze,35-44,Seattle,2024-01-28
+624,Chen Roy,Bronze,35-44,Edmonton,2025-06-09
+625,Avery Scott,Bronze,18-24,New York,2023-11-06
+626,Riley Wilson,Bronze,35-44,Boston,2023-10-18
+627,Sam Lopez,Silver,35-44,New York,2022-09-05
+628,Olivia Tremblay,Bronze,35-44,Montreal,2024-12-15
+629,Casey Martin,Silver,18-24,Seattle,2023-03-10
+630,Liam Gagnon,Gold,25-34,Edmonton,2022-09-25
+631,Riley Young,Bronze,25-34,Edmonton,2023-05-22
+632,Wei Gagnon,Gold,18-24,Vancouver,2024-04-06
+633,Casey Smith,Bronze,25-34,Toronto,2023-01-05
+634,Sam Brown,Bronze,18-24,Edmonton,2023-05-07
+635,Diego Smith,Silver,18-24,Vancouver,2023-03-29
+636,Drew Nguyen,Silver,35-44,New York,2024-03-27
+637,Diego Walker,Gold,25-34,Vancouver,2024-09-05
+638,Lucas Khan,Bronze,35-44,Chicago,2024-07-14
+639,Olivia Lopez,Silver,18-24,New York,2022-07-13
+640,Alex Clark,Bronze,35-44,Calgary,2023-04-21
+641,Sofia Khan,Bronze,25-34,Boston,2024-06-07
+642,Drew Gagnon,Bronze,45-54,New York,2022-10-24
+643,Drew Smith,Platinum,45-54,New York,2022-04-06
+644,Fatima Singh,Bronze,25-34,Edmonton,2023-03-17
+645,Jordan Lee,Gold,35-44,Chicago,2024-07-18
+646,Casey Clark,Silver,25-34,Vancouver,2024-06-28
+647,Wei Smith,Silver,35-44,Calgary,2022-06-27
+648,Diego Kim,Silver,18-24,Montreal,2024-07-16
+649,Riley Walker,Gold,25-34,Edmonton,2022-09-24
+650,Liam Smith,Bronze,18-24,Chicago,2024-10-12
+651,Sofia Wilson,Bronze,45-54,New York,2024-02-16
+652,Ethan Clark,Silver,25-34,Montreal,2022-06-23
+653,Emma Walker,Bronze,35-44,Chicago,2023-04-25
+654,Riley Singh,Bronze,25-34,Boston,2025-01-26
+655,Priya Clark,Bronze,25-34,Calgary,2023-08-16
+656,Liam Garcia,Bronze,25-34,Ottawa,2024-07-31
+657,Lucas Clark,Bronze,55+,Calgary,2024-10-22
+658,Fatima Chen,Bronze,45-54,Seattle,2022-02-11
+659,Ethan Martin,Gold,18-24,Edmonton,2025-06-30
+660,Wei Brown,Bronze,35-44,Ottawa,2023-04-05
+661,Jordan Chen,Platinum,25-34,Ottawa,2024-12-22
+662,Liam Clark,Platinum,18-24,Chicago,2023-10-02
+663,Chen Patel,Bronze,25-34,Calgary,2024-03-01
+664,Olivia Tremblay,Silver,18-24,New York,2023-05-10
+665,Olivia Garcia,Silver,25-34,Vancouver,2025-03-14
+666,Wei Khan,Silver,35-44,Toronto,2022-06-10
+667,Priya Gagnon,Bronze,25-34,Calgary,2025-05-12
+668,Liam Scott,Bronze,45-54,New York,2022-10-12
+669,Emma Chen,Bronze,35-44,Vancouver,2025-04-24
+670,Lucas Wilson,Silver,45-54,New York,2022-02-03
+671,Liam Nguyen,Platinum,35-44,Calgary,2022-01-19
+672,Jordan Martin,Silver,45-54,Vancouver,2022-05-08
+673,Morgan Scott,Silver,25-34,Montreal,2024-01-21
+674,Chen Khan,Platinum,25-34,Montreal,2022-12-31
+675,Sofia Martin,Silver,25-34,Montreal,2024-03-30
+676,Sam Brown,Bronze,55+,Boston,2025-01-28
+677,Maya Young,Gold,18-24,Vancouver,2022-02-07
+678,Casey Roy,Bronze,35-44,Boston,2023-12-23
+679,Avery Nguyen,Bronze,35-44,Vancouver,2024-10-09
+680,Jordan Brown,Silver,25-34,Vancouver,2023-08-05
+681,Jordan Tremblay,Gold,45-54,Chicago,2025-06-21
+682,Avery Singh,Bronze,25-34,Seattle,2024-06-26
+683,Liam Smith,Bronze,18-24,Calgary,2022-02-17
+684,Jamie Roy,Bronze,35-44,Montreal,2024-01-12
+685,Hana Lee,Bronze,25-34,Boston,2023-06-11
+686,Fatima Garcia,Bronze,18-24,Toronto,2022-06-30
+687,Wei Wilson,Silver,18-24,Calgary,2025-07-26
+688,Fatima Scott,Gold,18-24,Edmonton,2022-11-01
+689,Hana Lopez,Bronze,35-44,New York,2022-04-25
+690,Maya Kim,Bronze,45-54,Ottawa,2022-11-01
+691,Hana Chen,Bronze,25-34,Toronto,2025-02-01
+692,Avery Clark,Bronze,18-24,Montreal,2024-04-01
+693,Drew Singh,Silver,25-34,Ottawa,2025-01-28
+694,Noah Garcia,Silver,45-54,Edmonton,2023-09-25
+695,Fatima Young,Silver,35-44,Chicago,2022-06-10
+696,Jamie Kim,Bronze,25-34,Montreal,2023-06-15
+697,Hana Khan,Silver,18-24,Calgary,2022-10-01
+698,Casey Martin,Bronze,55+,Montreal,2024-02-02
+699,Emma Walker,Bronze,45-54,Toronto,2023-01-05
+700,Alex Chen,Gold,18-24,Boston,2025-08-22
+701,Chen Singh,Silver,45-54,Montreal,2023-06-01
+702,Jamie Garcia,Gold,18-24,Edmonton,2023-03-07
+703,Morgan Patel,Gold,18-24,New York,2025-09-10
+704,Avery Clark,Silver,35-44,Seattle,2023-12-14
+705,Alex Chen,Gold,25-34,Ottawa,2022-08-22
+706,Sam Martin,Bronze,25-34,Edmonton,2023-10-21
+707,Riley Lopez,Bronze,55+,Chicago,2022-12-15
+708,Noah Lopez,Bronze,45-54,Calgary,2024-09-08
+709,Emma Wilson,Bronze,18-24,Toronto,2024-02-25
+710,Chen Roy,Bronze,35-44,Montreal,2024-09-27
+711,Diego Scott,Bronze,45-54,Boston,2025-07-11
+712,Noah Walker,Silver,35-44,Boston,2024-09-25
+713,Riley Gagnon,Silver,55+,Vancouver,2023-04-12
+714,Olivia Young,Silver,35-44,Ottawa,2022-10-04
+715,Riley Lopez,Bronze,18-24,Montreal,2023-12-27
+716,Wei Patel,Silver,18-24,Montreal,2023-09-08
+717,Morgan Martin,Bronze,45-54,Boston,2023-03-05
+718,Jamie Nguyen,Bronze,55+,Seattle,2025-01-16
+719,Priya Walker,Bronze,18-24,Toronto,2025-05-30
+720,Jamie Scott,Bronze,18-24,Boston,2023-06-07
+721,Lucas Kim,Bronze,35-44,Boston,2024-07-21
+722,Diego Wilson,Gold,18-24,New York,2025-09-10
+723,Taylor Smith,Silver,18-24,Seattle,2022-01-17
+724,Diego Scott,Silver,45-54,Toronto,2023-05-15
+725,Sofia Nguyen,Bronze,45-54,New York,2024-10-07
+726,Jamie Smith,Gold,45-54,Ottawa,2023-11-13
+727,Sam Singh,Silver,35-44,Seattle,2024-12-20
+728,Noah Tremblay,Bronze,25-34,Calgary,2023-10-13
+729,Hana Roy,Silver,55+,Toronto,2022-03-30
+730,Riley Kim,Bronze,25-34,Boston,2023-08-18
+731,Lucas Garcia,Bronze,25-34,Boston,2023-07-09
+732,Sam Tremblay,Bronze,45-54,Calgary,2025-03-04
+733,Chen Nguyen,Silver,35-44,Vancouver,2022-07-21
+734,Emma Brown,Bronze,45-54,Toronto,2022-08-01
+735,Lucas Tremblay,Bronze,18-24,Chicago,2022-07-13
+736,Fatima Walker,Bronze,55+,Ottawa,2024-02-17
+737,Wei Singh,Platinum,35-44,Seattle,2025-09-25
+738,Hana Garcia,Bronze,35-44,Edmonton,2024-04-27
+739,Maya Brown,Bronze,55+,New York,2025-01-23
+740,Casey Wilson,Bronze,25-34,New York,2025-03-12
+741,Taylor Smith,Gold,35-44,Seattle,2024-04-02
+742,Jamie Nguyen,Silver,35-44,Toronto,2024-04-14
+743,Priya Clark,Gold,45-54,Chicago,2022-11-29
+744,Morgan Smith,Bronze,45-54,Toronto,2025-08-08
+745,Jordan Kim,Bronze,35-44,Chicago,2024-12-15
+746,Riley Roy,Silver,18-24,Montreal,2025-04-09
+747,Alex Garcia,Bronze,18-24,Seattle,2025-09-09
+748,Priya Wilson,Gold,55+,Toronto,2023-04-23
+749,Liam Lopez,Gold,55+,Calgary,2022-07-16
+750,Wei Gagnon,Bronze,55+,Edmonton,2025-03-24
+751,Liam Chen,Platinum,18-24,Chicago,2023-10-10
+752,Casey Garcia,Silver,25-34,Ottawa,2025-08-06
+753,Noah Singh,Bronze,35-44,Toronto,2024-08-09
+754,Fatima Roy,Bronze,35-44,New York,2022-12-19
+755,Chen Walker,Bronze,18-24,Toronto,2023-05-02
+756,Avery Singh,Gold,35-44,Boston,2024-04-15
+757,Sofia Garcia,Bronze,18-24,Toronto,2023-06-25
+758,Riley Young,Bronze,25-34,Chicago,2023-01-22
+759,Maya Smith,Silver,25-34,Edmonton,2022-10-15
+760,Maya Roy,Bronze,18-24,Chicago,2024-06-08
+761,Chen Khan,Bronze,18-24,Ottawa,2022-02-18
+762,Morgan Patel,Silver,55+,Montreal,2022-05-09
+763,Emma Smith,Bronze,35-44,Calgary,2022-02-28
+764,Jamie Nguyen,Bronze,55+,Toronto,2024-10-02
+765,Alex Young,Bronze,25-34,Ottawa,2022-02-10
+766,Jordan Smith,Bronze,25-34,Vancouver,2023-07-30
+767,Diego Patel,Bronze,25-34,Boston,2022-06-16
+768,Amir Smith,Silver,35-44,Boston,2024-03-15
+769,Taylor Nguyen,Platinum,25-34,Toronto,2022-02-17
+770,Ethan Lee,Bronze,35-44,Toronto,2022-02-05
+771,Wei Singh,Platinum,45-54,New York,2023-07-18
+772,Jordan Martin,Silver,45-54,Vancouver,2024-08-10
+773,Casey Martin,Silver,25-34,Boston,2022-05-31
+774,Ethan Gagnon,Silver,25-34,Montreal,2023-11-11
+775,Maya Smith,Silver,25-34,Vancouver,2025-01-15
+776,Jamie Clark,Gold,18-24,Montreal,2024-05-06
+777,Liam Lee,Bronze,35-44,Montreal,2024-10-24
+778,Wei Patel,Silver,25-34,Boston,2023-03-09
+779,Fatima Lopez,Bronze,35-44,Calgary,2025-07-14
+780,Hana Clark,Bronze,18-24,New York,2022-07-19
+781,Jamie Chen,Silver,55+,Toronto,2024-04-09
+782,Riley Young,Bronze,55+,Edmonton,2023-08-20
+783,Liam Roy,Bronze,25-34,Calgary,2022-02-13
+784,Hana Lee,Bronze,45-54,Chicago,2025-07-17
+785,Fatima Scott,Bronze,25-34,Calgary,2024-08-20
+786,Sam Brown,Silver,35-44,Ottawa,2022-11-09
+787,Sofia Gagnon,Silver,45-54,New York,2022-03-13
+788,Taylor Garcia,Bronze,45-54,Ottawa,2024-07-14
+789,Liam Lopez,Bronze,45-54,Chicago,2024-01-17
+790,Jordan Lee,Bronze,25-34,Vancouver,2022-03-10
+791,Jamie Singh,Bronze,45-54,Boston,2025-09-12
+792,Maya Wilson,Silver,35-44,New York,2024-09-10
+793,Emma Garcia,Silver,18-24,Calgary,2023-09-26
+794,Amir Tremblay,Bronze,18-24,Edmonton,2022-11-23
+795,Chen Smith,Bronze,45-54,Ottawa,2023-01-07
+796,Sofia Garcia,Platinum,35-44,Toronto,2023-09-11
+797,Drew Smith,Silver,25-34,Boston,2022-03-20
+798,Ethan Patel,Bronze,55+,Chicago,2023-05-19
+799,Olivia Khan,Bronze,35-44,Seattle,2022-10-25
+800,Chen Khan,Bronze,25-34,Vancouver,2022-06-04
+801,Jamie Khan,Gold,25-34,Vancouver,2022-06-22
+802,Amir Garcia,Bronze,35-44,Vancouver,2023-04-19
+803,Taylor Clark,Bronze,35-44,Boston,2023-06-09
+804,Taylor Martin,Platinum,35-44,New York,2023-04-25
+805,Casey Nguyen,Silver,25-34,Boston,2024-08-03
+806,Lucas Nguyen,Bronze,35-44,Chicago,2023-12-17
+807,Olivia Walker,Bronze,35-44,Vancouver,2022-09-22
+808,Sam Patel,Bronze,45-54,New York,2025-08-25
+809,Lucas Kim,Silver,18-24,Edmonton,2024-09-27
+810,Taylor Scott,Bronze,35-44,Chicago,2023-10-06
+811,Riley Smith,Gold,25-34,Vancouver,2022-03-09
+812,Diego Smith,Gold,18-24,Ottawa,2025-06-06
+813,Liam Scott,Silver,35-44,Vancouver,2024-10-16
+814,Noah Martin,Silver,35-44,New York,2023-09-25
+815,Drew Nguyen,Bronze,25-34,Chicago,2022-08-10
+816,Noah Clark,Bronze,45-54,Seattle,2022-05-28
+817,Jordan Clark,Silver,25-34,Toronto,2023-02-02
+818,Priya Kim,Bronze,25-34,Edmonton,2022-11-12
+819,Morgan Lee,Bronze,25-34,Ottawa,2022-10-14
+820,Morgan Chen,Bronze,25-34,Vancouver,2023-07-13
+821,Sofia Tremblay,Bronze,35-44,Chicago,2022-03-05
+822,Wei Martin,Bronze,45-54,Chicago,2023-03-22
+823,Taylor Chen,Silver,35-44,Ottawa,2025-04-08
+824,Avery Walker,Gold,18-24,Ottawa,2025-04-01
+825,Hana Gagnon,Silver,25-34,New York,2022-01-12
+826,Morgan Smith,Gold,18-24,Calgary,2024-07-18
+827,Sam Martin,Bronze,35-44,Calgary,2025-09-19
+828,Taylor Singh,Gold,25-34,Seattle,2024-03-03
+829,Chen Clark,Silver,25-34,Chicago,2023-06-19
+830,Amir Chen,Bronze,45-54,Chicago,2023-11-04
+831,Emma Lee,Gold,35-44,Boston,2022-10-20
+832,Morgan Martin,Bronze,25-34,Chicago,2023-06-29
+833,Liam Brown,Bronze,25-34,Boston,2025-07-07
+834,Sofia Walker,Bronze,35-44,Seattle,2024-04-18
+835,Liam Khan,Bronze,25-34,Edmonton,2023-08-14
+836,Lucas Martin,Bronze,18-24,Toronto,2022-06-20
+837,Riley Lopez,Silver,45-54,Seattle,2025-05-26
+838,Ethan Scott,Gold,25-34,Chicago,2022-08-11
+839,Taylor Wilson,Bronze,25-34,Vancouver,2024-09-15
+840,Diego Kim,Silver,18-24,Calgary,2023-02-20
+841,Diego Smith,Bronze,25-34,Edmonton,2023-01-17
+842,Alex Lopez,Gold,25-34,New York,2022-08-23
+843,Avery Kim,Bronze,25-34,New York,2023-05-29
+844,Priya Wilson,Bronze,35-44,Vancouver,2024-07-16
+845,Diego Tremblay,Silver,25-34,Seattle,2023-07-25
+846,Lucas Clark,Silver,45-54,Seattle,2022-02-03
+847,Olivia Brown,Silver,55+,Chicago,2022-12-28
+848,Morgan Walker,Silver,25-34,Edmonton,2022-08-08
+849,Wei Nguyen,Silver,18-24,Toronto,2023-07-05
+850,Avery Scott,Bronze,45-54,Seattle,2025-05-21
+851,Riley Patel,Bronze,55+,Toronto,2025-08-11
+852,Ethan Patel,Bronze,45-54,Ottawa,2025-09-28
+853,Fatima Clark,Bronze,18-24,Montreal,2022-06-04
+854,Hana Young,Bronze,25-34,Ottawa,2023-10-30
+855,Riley Singh,Bronze,18-24,Boston,2022-03-04
+856,Avery Roy,Bronze,45-54,Calgary,2023-11-10
+857,Chen Khan,Silver,35-44,Montreal,2024-03-01
+858,Olivia Clark,Bronze,25-34,Toronto,2024-11-25
+859,Olivia Brown,Silver,35-44,Montreal,2023-04-06
+860,Priya Kim,Silver,25-34,New York,2022-02-19
+861,Jordan Khan,Bronze,35-44,Boston,2023-09-15
+862,Olivia Khan,Bronze,18-24,Montreal,2023-08-09
+863,Liam Lopez,Silver,35-44,Toronto,2024-05-05
+864,Diego Martin,Silver,35-44,Edmonton,2022-05-17
+865,Wei Nguyen,Bronze,35-44,Boston,2024-04-20
+866,Lucas Young,Bronze,25-34,Toronto,2023-07-04
+867,Ethan Clark,Silver,45-54,Boston,2024-10-09
+868,Chen Lopez,Silver,35-44,Ottawa,2025-09-09
+869,Maya Tremblay,Bronze,18-24,Montreal,2022-11-08
+870,Alex Singh,Bronze,18-24,New York,2024-10-29
+871,Priya Khan,Gold,35-44,Toronto,2022-06-24
+872,Wei Smith,Bronze,25-34,Vancouver,2025-09-11
+873,Casey Scott,Gold,18-24,Ottawa,2023-10-21
+874,Hana Brown,Bronze,18-24,Montreal,2024-10-19
+875,Amir Khan,Silver,18-24,Boston,2024-12-01
+876,Diego Clark,Bronze,25-34,Montreal,2024-04-13
+877,Emma Brown,Bronze,35-44,Toronto,2023-06-11
+878,Emma Garcia,Gold,18-24,Montreal,2024-10-30
+879,Avery Lee,Bronze,35-44,Toronto,2023-10-15
+880,Noah Martin,Platinum,25-34,New York,2024-06-21
+881,Drew Wilson,Bronze,25-34,Chicago,2024-04-20
+882,Alex Lee,Gold,25-34,Ottawa,2023-09-28
+883,Noah Young,Gold,45-54,Boston,2022-06-10
+884,Maya Roy,Silver,55+,Vancouver,2023-02-05
+885,Sam Patel,Bronze,25-34,Toronto,2025-07-08
+886,Avery Brown,Silver,18-24,New York,2023-12-14
+887,Drew Brown,Silver,25-34,Montreal,2024-05-21
+888,Lucas Nguyen,Gold,18-24,Edmonton,2022-12-21
+889,Avery Patel,Bronze,45-54,Edmonton,2024-08-24
+890,Jamie Walker,Bronze,18-24,Edmonton,2023-10-29
+891,Sam Garcia,Bronze,55+,Ottawa,2022-10-27
+892,Alex Scott,Silver,35-44,Montreal,2022-07-20
+893,Sofia Singh,Platinum,25-34,Boston,2023-06-26
+894,Morgan Tremblay,Bronze,45-54,Chicago,2024-02-14
+895,Wei Lopez,Silver,18-24,Toronto,2023-01-19
+896,Noah Clark,Gold,45-54,Calgary,2022-12-03
+897,Avery Chen,Bronze,18-24,Seattle,2023-01-05
+898,Wei Singh,Bronze,45-54,Montreal,2023-02-07
+899,Hana Patel,Silver,25-34,Calgary,2024-10-09
+900,Wei Kim,Silver,18-24,Chicago,2023-11-15
+901,Sam Roy,Bronze,45-54,Chicago,2023-10-05
+902,Wei Chen,Gold,18-24,New York,2022-08-11
+903,Taylor Smith,Silver,18-24,New York,2024-01-17
+904,Alex Roy,Gold,45-54,New York,2025-08-11
+905,Jordan Scott,Gold,25-34,Montreal,2024-10-18
+906,Riley Walker,Gold,45-54,Seattle,2023-09-05
+907,Olivia Roy,Silver,35-44,Toronto,2023-02-25
+908,Fatima Nguyen,Bronze,35-44,Toronto,2023-04-28
+909,Casey Chen,Silver,25-34,New York,2022-02-06
+910,Taylor Chen,Bronze,18-24,Seattle,2022-02-09
+911,Jamie Lopez,Silver,55+,Seattle,2024-11-29
+912,Jamie Clark,Bronze,18-24,New York,2025-03-01
+913,Lucas Young,Silver,25-34,Vancouver,2025-08-19
+914,Jordan Scott,Bronze,25-34,Vancouver,2024-05-07
+915,Emma Scott,Bronze,25-34,Calgary,2025-06-26
+916,Avery Scott,Bronze,35-44,Montreal,2023-07-25
+917,Noah Tremblay,Silver,45-54,Calgary,2022-12-15
+918,Priya Nguyen,Silver,45-54,Ottawa,2022-12-03
+919,Diego Garcia,Bronze,45-54,Vancouver,2022-11-21
+920,Casey Martin,Gold,25-34,Chicago,2024-10-17
+921,Priya Tremblay,Gold,25-34,Boston,2022-01-14
+922,Amir Gagnon,Bronze,18-24,Ottawa,2025-07-19
+923,Sofia Lee,Silver,35-44,Montreal,2024-11-27
+924,Priya Kim,Bronze,25-34,Montreal,2023-06-06
+925,Liam Patel,Bronze,35-44,Montreal,2024-08-19
+926,Jordan Chen,Silver,18-24,New York,2022-07-04
+927,Wei Patel,Bronze,45-54,Seattle,2023-08-15
+928,Jordan Clark,Gold,45-54,Boston,2022-05-30
+929,Drew Martin,Gold,45-54,Calgary,2022-06-03
+930,Liam Khan,Gold,18-24,Ottawa,2022-01-09
+931,Sofia Chen,Silver,55+,Ottawa,2024-12-26
+932,Chen Brown,Silver,25-34,Seattle,2024-10-16
+933,Amir Wilson,Platinum,25-34,New York,2025-05-08
+934,Jordan Lopez,Bronze,25-34,Edmonton,2025-09-06
+935,Alex Lopez,Bronze,25-34,Edmonton,2025-08-14
+936,Sam Singh,Silver,35-44,Seattle,2025-09-22
+937,Emma Young,Bronze,25-34,Seattle,2022-01-22
+938,Priya Nguyen,Bronze,25-34,Toronto,2024-12-10
+939,Casey Clark,Bronze,35-44,Vancouver,2024-09-17
+940,Sofia Nguyen,Silver,45-54,Toronto,2022-08-11
+941,Drew Chen,Bronze,35-44,Vancouver,2022-07-07
+942,Morgan Gagnon,Bronze,35-44,New York,2025-09-01
+943,Emma Patel,Bronze,18-24,Montreal,2025-04-24
+944,Olivia Wilson,Bronze,45-54,Ottawa,2023-03-26
+945,Sam Wilson,Gold,18-24,Calgary,2022-04-13
+946,Morgan Singh,Bronze,25-34,Edmonton,2023-04-03
+947,Chen Khan,Silver,18-24,Boston,2022-01-08
+948,Taylor Clark,Silver,35-44,Toronto,2024-07-30
+949,Noah Clark,Bronze,25-34,Montreal,2023-06-05
+950,Sofia Garcia,Gold,35-44,Boston,2022-03-09
+951,Liam Kim,Silver,25-34,New York,2025-09-04
+952,Ethan Singh,Silver,25-34,Seattle,2025-02-05
+953,Avery Singh,Bronze,25-34,Seattle,2025-05-24
+954,Jamie Patel,Bronze,18-24,Seattle,2025-09-28
+955,Alex Young,Platinum,25-34,Edmonton,2022-01-20
+956,Sam Clark,Silver,35-44,Chicago,2024-11-27
+957,Alex Lopez,Gold,25-34,Calgary,2024-12-14
+958,Avery Kim,Gold,18-24,Chicago,2024-12-06
+959,Jamie Roy,Bronze,35-44,Vancouver,2022-12-30
+960,Wei Kim,Silver,25-34,Calgary,2023-06-19
+961,Drew Kim,Bronze,18-24,New York,2025-06-26
+962,Amir Wilson,Silver,18-24,Vancouver,2022-04-01
+963,Drew Nguyen,Bronze,25-34,Ottawa,2024-05-28
+964,Avery Nguyen,Bronze,25-34,Seattle,2024-12-21
+965,Morgan Scott,Silver,35-44,Calgary,2024-12-29
+966,Jordan Roy,Silver,25-34,Chicago,2024-03-29
+967,Amir Scott,Silver,45-54,Vancouver,2024-11-16
+968,Taylor Patel,Bronze,25-34,Chicago,2025-05-30
+969,Drew Martin,Bronze,35-44,New York,2024-11-15
+970,Diego Singh,Platinum,45-54,Boston,2022-06-08
+971,Morgan Chen,Bronze,25-34,Boston,2022-12-02
+972,Chen Smith,Bronze,18-24,Montreal,2023-02-23
+973,Drew Nguyen,Silver,25-34,Seattle,2023-04-16
+974,Taylor Young,Bronze,55+,Chicago,2023-05-10
+975,Alex Garcia,Silver,55+,New York,2022-10-29
+976,Fatima Lee,Bronze,25-34,Chicago,2024-07-25
+977,Sam Roy,Gold,35-44,Seattle,2022-06-01
+978,Hana Wilson,Gold,25-34,New York,2024-12-15
+979,Liam Kim,Gold,18-24,Calgary,2024-06-21
+980,Olivia Patel,Silver,35-44,Seattle,2025-08-09
+981,Amir Scott,Bronze,25-34,Ottawa,2022-01-09
+982,Taylor Gagnon,Silver,25-34,Edmonton,2023-02-09
+983,Amir Khan,Gold,45-54,Seattle,2025-05-15
+984,Drew Roy,Silver,25-34,Chicago,2023-11-08
+985,Amir Patel,Silver,35-44,Montreal,2024-02-08
+986,Amir Young,Silver,25-34,Toronto,2022-02-09
+987,Ethan Garcia,Silver,18-24,Vancouver,2024-11-10
+988,Liam Tremblay,Silver,25-34,Seattle,2022-12-13
+989,Diego Garcia,Bronze,55+,Edmonton,2025-08-12
+990,Sam Lopez,Bronze,25-34,Toronto,2023-05-28
+991,Olivia Lee,Silver,18-24,Ottawa,2022-09-16
+992,Sam Lopez,Bronze,35-44,Vancouver,2024-03-24
+993,Emma Lopez,Gold,55+,Vancouver,2023-10-17
+994,Amir Singh,Silver,55+,Ottawa,2023-10-08
+995,Casey Young,Bronze,35-44,Calgary,2025-07-25
+996,Liam Wilson,Gold,25-34,Calgary,2023-05-15
+997,Jamie Lee,Silver,35-44,Ottawa,2023-06-29
+998,Sofia Smith,Silver,45-54,Montreal,2024-05-04
+999,Liam Scott,Bronze,45-54,New York,2022-08-22
+1000,Jamie Chen,Gold,45-54,Chicago,2025-02-09
+1001,Chen Tremblay,Bronze,25-34,Chicago,2022-11-11
+1002,Drew Roy,Silver,18-24,Edmonton,2022-11-28
+1003,Lucas Nguyen,Bronze,35-44,Toronto,2022-01-15
+1004,Priya Patel,Silver,18-24,Seattle,2023-04-15
+1005,Lucas Lee,Silver,18-24,Chicago,2024-03-09
+1006,Maya Brown,Silver,25-34,Montreal,2024-08-23
+1007,Taylor Young,Bronze,35-44,Calgary,2025-05-16
+1008,Olivia Garcia,Gold,45-54,Toronto,2024-12-01
+1009,Priya Khan,Silver,45-54,Seattle,2023-03-16
+1010,Ethan Roy,Bronze,45-54,Boston,2025-02-04
+1011,Jamie Walker,Platinum,35-44,Toronto,2022-09-24
+1012,Olivia Martin,Silver,35-44,Boston,2022-10-14
+1013,Sam Roy,Platinum,18-24,Calgary,2023-05-06
+1014,Emma Scott,Platinum,35-44,Edmonton,2024-01-09
+1015,Liam Garcia,Gold,18-24,Montreal,2022-10-06
+1016,Liam Patel,Silver,18-24,Seattle,2025-05-18
+1017,Jordan Walker,Silver,18-24,Calgary,2023-01-06
+1018,Hana Gagnon,Bronze,45-54,Seattle,2023-06-21
+1019,Noah Smith,Silver,35-44,Ottawa,2024-04-08
+1020,Hana Wilson,Silver,55+,Edmonton,2023-08-12
+1021,Jamie Clark,Silver,55+,Vancouver,2023-07-08
+1022,Sofia Khan,Gold,45-54,Chicago,2025-09-11
+1023,Riley Scott,Bronze,18-24,Edmonton,2023-08-21
+1024,Wei Kim,Bronze,45-54,Boston,2022-06-04
+1025,Sofia Walker,Silver,45-54,Toronto,2024-09-27
+1026,Morgan Garcia,Bronze,45-54,New York,2024-08-24
+1027,Drew Young,Bronze,18-24,Ottawa,2022-10-27
+1028,Ethan Brown,Bronze,18-24,Vancouver,2025-03-10
+1029,Sofia Khan,Gold,55+,Montreal,2023-06-21
+1030,Drew Wilson,Bronze,18-24,Toronto,2022-07-26
+1031,Fatima Martin,Bronze,25-34,Edmonton,2022-08-25
+1032,Taylor Khan,Bronze,25-34,Montreal,2024-09-05
+1033,Noah Kim,Bronze,18-24,Edmonton,2022-10-23
+1034,Sofia Young,Bronze,18-24,Boston,2023-10-06
+1035,Avery Wilson,Silver,55+,Ottawa,2024-10-02
+1036,Morgan Lee,Silver,45-54,Boston,2025-03-14
+1037,Priya Garcia,Bronze,55+,Montreal,2023-11-02
+1038,Ethan Wilson,Silver,25-34,Vancouver,2025-05-28
+1039,Wei Wilson,Bronze,25-34,Edmonton,2023-02-19
+1040,Riley Nguyen,Bronze,25-34,New York,2025-04-10
+1041,Amir Tremblay,Gold,25-34,New York,2022-12-09
+1042,Avery Walker,Silver,18-24,Ottawa,2022-03-30
+1043,Taylor Walker,Gold,45-54,Edmonton,2024-09-20
+1044,Sofia Walker,Bronze,55+,Montreal,2024-11-02
+1045,Jamie Smith,Bronze,25-34,Montreal,2025-06-23
+1046,Fatima Garcia,Bronze,25-34,Chicago,2025-06-16
+1047,Amir Patel,Bronze,25-34,Ottawa,2022-05-21
+1048,Morgan Lopez,Platinum,18-24,Calgary,2024-05-01
+1049,Diego Clark,Bronze,25-34,Calgary,2024-08-23
+1050,Sofia Singh,Gold,25-34,Montreal,2024-04-03
+1051,Fatima Walker,Gold,25-34,Boston,2022-01-26
+1052,Morgan Nguyen,Silver,25-34,Calgary,2022-03-03
+1053,Chen Chen,Bronze,45-54,Boston,2024-07-07
+1054,Lucas Nguyen,Silver,25-34,Vancouver,2025-03-18
+1055,Jamie Chen,Bronze,18-24,Seattle,2022-09-03
+1056,Jamie Walker,Silver,18-24,Boston,2022-03-05
+1057,Fatima Young,Bronze,18-24,Vancouver,2023-07-08
+1058,Sofia Singh,Gold,35-44,Chicago,2023-03-06
+1059,Hana Kim,Silver,45-54,Seattle,2025-09-08
+1060,Liam Khan,Silver,45-54,Edmonton,2025-06-22
+1061,Lucas Scott,Silver,35-44,Toronto,2024-02-04
+1062,Noah Lee,Silver,25-34,Edmonton,2025-07-25
+1063,Sofia Chen,Gold,18-24,New York,2022-11-10
+1064,Jamie Lee,Bronze,25-34,Vancouver,2025-09-20
+1065,Sam Garcia,Platinum,25-34,Ottawa,2023-09-05
+1066,Ethan Scott,Gold,45-54,Edmonton,2023-10-15
+1067,Maya Brown,Gold,25-34,Seattle,2022-03-11
+1068,Wei Walker,Bronze,25-34,Vancouver,2022-09-01
+1069,Liam Smith,Gold,25-34,Calgary,2022-09-24
+1070,Liam Wilson,Bronze,18-24,Toronto,2023-10-31
+1071,Ethan Clark,Silver,55+,Boston,2022-09-18
+1072,Hana Lee,Bronze,18-24,Seattle,2022-05-21
+1073,Drew Wilson,Bronze,18-24,Boston,2024-04-09
+1074,Morgan Young,Bronze,18-24,Calgary,2025-04-10
+1075,Chen Clark,Bronze,45-54,Toronto,2022-04-06
+1076,Avery Garcia,Bronze,25-34,Calgary,2024-02-07
+1077,Chen Kim,Gold,35-44,Chicago,2025-08-08
+1078,Ethan Roy,Bronze,25-34,Toronto,2023-07-09
+1079,Wei Lee,Silver,18-24,Montreal,2022-09-08
+1080,Amir Garcia,Bronze,45-54,Seattle,2022-04-19
+1081,Amir Singh,Silver,18-24,Edmonton,2025-07-06
+1082,Priya Young,Silver,18-24,Ottawa,2023-07-10
+1083,Diego Young,Bronze,35-44,Toronto,2022-05-25
+1084,Jamie Gagnon,Silver,18-24,Calgary,2025-04-01
+1085,Diego Scott,Gold,18-24,Edmonton,2025-01-03
+1086,Alex Khan,Gold,45-54,Seattle,2024-08-21
+1087,Hana Lopez,Bronze,25-34,Seattle,2022-04-26
+1088,Casey Lopez,Bronze,25-34,Calgary,2022-04-23
+1089,Jordan Roy,Silver,25-34,Calgary,2022-10-27
+1090,Emma Roy,Bronze,35-44,Chicago,2022-08-08
+1091,Ethan Singh,Gold,18-24,Boston,2023-12-30
+1092,Emma Lee,Bronze,18-24,Montreal,2023-06-22
+1093,Emma Chen,Gold,35-44,New York,2024-11-14
+1094,Jamie Chen,Bronze,35-44,Boston,2022-05-19
+1095,Wei Martin,Bronze,55+,Montreal,2024-09-24
+1096,Drew Wilson,Platinum,25-34,Chicago,2025-07-03
+1097,Jamie Singh,Gold,18-24,Montreal,2022-06-28
+1098,Olivia Gagnon,Gold,25-34,Edmonton,2024-06-12
+1099,Jamie Clark,Platinum,35-44,Calgary,2023-11-29
+1100,Noah Patel,Bronze,18-24,New York,2022-05-10
+1101,Drew Smith,Bronze,35-44,Chicago,2023-02-06
+1102,Alex Garcia,Bronze,18-24,Vancouver,2024-12-15
+1103,Wei Lopez,Silver,45-54,Vancouver,2025-04-05
+1104,Taylor Gagnon,Bronze,45-54,Boston,2023-05-20
+1105,Casey Nguyen,Gold,25-34,Chicago,2022-05-26
+1106,Ethan Lopez,Bronze,55+,Chicago,2022-12-02
+1107,Emma Nguyen,Bronze,55+,Boston,2025-03-01
+1108,Jordan Brown,Bronze,18-24,Boston,2024-02-20
+1109,Wei Scott,Bronze,25-34,Boston,2023-08-13
+1110,Jamie Patel,Bronze,35-44,Chicago,2022-01-19
+1111,Diego Patel,Silver,18-24,Toronto,2024-12-08
+1112,Alex Wilson,Bronze,25-34,Edmonton,2023-09-30
+1113,Priya Lee,Silver,25-34,Toronto,2024-01-18
+1114,Chen Young,Gold,55+,Edmonton,2025-03-02
+1115,Jamie Scott,Silver,25-34,Vancouver,2024-02-10
+1116,Emma Tremblay,Silver,35-44,Vancouver,2025-06-25
+1117,Diego Nguyen,Bronze,25-34,Seattle,2024-02-06
+1118,Noah Lopez,Bronze,18-24,Boston,2023-04-15
+1119,Riley Chen,Bronze,45-54,Edmonton,2025-06-18
+1120,Wei Clark,Platinum,18-24,Seattle,2024-05-30
+1121,Casey Walker,Silver,18-24,Toronto,2024-11-07
+1122,Wei Nguyen,Bronze,25-34,New York,2022-11-07
+1123,Ethan Gagnon,Bronze,35-44,Ottawa,2024-07-08
+1124,Noah Patel,Gold,25-34,Montreal,2024-02-07
+1125,Taylor Wilson,Silver,18-24,Ottawa,2022-05-25
+1126,Maya Martin,Silver,25-34,Edmonton,2022-12-15
+1127,Riley Kim,Gold,25-34,New York,2025-06-02
+1128,Jamie Walker,Silver,18-24,Boston,2024-02-22
+1129,Lucas Walker,Silver,25-34,Calgary,2024-11-26
+1130,Alex Scott,Bronze,18-24,Chicago,2022-08-24
+1131,Alex Scott,Bronze,25-34,Vancouver,2022-10-26
+1132,Alex Kim,Platinum,35-44,Ottawa,2025-07-13
+1133,Jordan Tremblay,Silver,35-44,Toronto,2023-07-30
+1134,Ethan Khan,Bronze,25-34,Ottawa,2025-04-30
+1135,Jordan Scott,Silver,25-34,Calgary,2025-01-12
+1136,Avery Garcia,Bronze,25-34,Calgary,2023-04-07
+1137,Jamie Roy,Gold,55+,Seattle,2025-07-24
+1138,Morgan Wilson,Bronze,18-24,Ottawa,2024-11-30
+1139,Casey Tremblay,Gold,18-24,Montreal,2022-06-24
+1140,Drew Walker,Silver,25-34,Chicago,2022-05-11
+1141,Lucas Brown,Bronze,18-24,Toronto,2022-06-23
+1142,Avery Lopez,Bronze,18-24,Calgary,2024-10-11
+1143,Ethan Gagnon,Gold,18-24,Ottawa,2022-07-16
+1144,Fatima Gagnon,Bronze,35-44,Edmonton,2023-01-22
+1145,Diego Wilson,Bronze,35-44,Chicago,2023-08-19
+1146,Drew Garcia,Silver,35-44,Montreal,2022-07-05
+1147,Casey Khan,Bronze,45-54,Vancouver,2023-03-29
+1148,Ethan Gagnon,Bronze,25-34,Calgary,2024-07-18
+1149,Morgan Roy,Bronze,55+,Boston,2025-08-24
+1150,Casey Clark,Gold,35-44,Chicago,2023-10-06
+1151,Riley Nguyen,Bronze,45-54,Toronto,2024-10-20
+1152,Noah Clark,Bronze,35-44,Calgary,2023-12-28
+1153,Fatima Tremblay,Bronze,25-34,Boston,2023-10-01
+1154,Avery Patel,Bronze,25-34,Toronto,2023-12-15
+1155,Jamie Kim,Bronze,25-34,Seattle,2025-08-06
+1156,Jamie Tremblay,Bronze,18-24,Montreal,2022-03-23
+1157,Maya Tremblay,Bronze,25-34,Edmonton,2023-12-05
+1158,Casey Smith,Bronze,18-24,Chicago,2022-03-12
+1159,Jordan Wilson,Gold,18-24,New York,2025-04-13
+1160,Chen Lopez,Bronze,55+,Chicago,2024-04-03
+1161,Jordan Smith,Bronze,35-44,New York,2022-03-06
+1162,Avery Walker,Gold,35-44,Montreal,2024-05-04
+1163,Sofia Gagnon,Gold,25-34,New York,2023-08-20
+1164,Avery Patel,Silver,35-44,New York,2022-03-06
+1165,Alex Nguyen,Bronze,45-54,Vancouver,2025-09-02
+1166,Sam Clark,Bronze,35-44,Toronto,2023-06-03
+1167,Riley Gagnon,Bronze,35-44,New York,2022-02-02
+1168,Liam Kim,Bronze,25-34,Edmonton,2024-04-19
+1169,Wei Gagnon,Bronze,25-34,Boston,2023-05-30
+1170,Sam Tremblay,Silver,35-44,Ottawa,2024-06-18
+1171,Priya Brown,Bronze,55+,Edmonton,2022-08-11
+1172,Liam Khan,Silver,25-34,Seattle,2025-02-08
+1173,Noah Chen,Bronze,25-34,Seattle,2023-07-30
+1174,Avery Lopez,Bronze,25-34,Chicago,2023-07-31
+1175,Casey Kim,Silver,25-34,Montreal,2025-01-06
+1176,Liam Lopez,Gold,55+,Ottawa,2024-01-22
+1177,Ethan Roy,Bronze,35-44,Edmonton,2022-01-02
+1178,Jamie Brown,Silver,25-34,Calgary,2024-03-03
+1179,Priya Singh,Bronze,25-34,Montreal,2024-06-03
+1180,Emma Singh,Bronze,25-34,Ottawa,2023-03-04
+1181,Olivia Lopez,Silver,18-24,Ottawa,2022-09-05
+1182,Hana Nguyen,Bronze,25-34,Vancouver,2022-03-15
+1183,Sofia Tremblay,Bronze,45-54,Boston,2025-03-05
+1184,Avery Patel,Bronze,35-44,Toronto,2022-01-06
+1185,Morgan Patel,Bronze,18-24,Ottawa,2024-03-10
+1186,Sam Gagnon,Bronze,35-44,Montreal,2025-02-19
+1187,Sam Brown,Bronze,35-44,Seattle,2023-04-28
+1188,Ethan Scott,Platinum,25-34,Chicago,2022-10-02
+1189,Chen Nguyen,Silver,35-44,Calgary,2024-09-06
+1190,Hana Walker,Bronze,35-44,Toronto,2024-05-13
+1191,Morgan Wilson,Bronze,45-54,Toronto,2022-01-21
+1192,Fatima Brown,Silver,18-24,Seattle,2024-03-01
+1193,Morgan Clark,Bronze,18-24,Calgary,2022-01-01
+1194,Diego Scott,Silver,25-34,Toronto,2023-07-02
+1195,Diego Clark,Silver,18-24,Seattle,2023-02-21
+1196,Wei Patel,Bronze,25-34,Edmonton,2025-02-15
+1197,Emma Singh,Bronze,45-54,Vancouver,2025-08-31
+1198,Wei Walker,Bronze,18-24,Calgary,2024-08-14
+1199,Diego Chen,Bronze,25-34,Montreal,2024-10-03
+1200,Riley Khan,Bronze,55+,Chicago,2022-02-01
+1201,Alex Martin,Gold,25-34,Boston,2022-03-29
+1202,Sofia Martin,Bronze,25-34,Ottawa,2024-11-30
+1203,Drew Gagnon,Silver,35-44,Boston,2023-08-10
+1204,Drew Khan,Silver,18-24,Ottawa,2023-11-26
+1205,Wei Smith,Bronze,18-24,Calgary,2024-08-06
+1206,Liam Smith,Bronze,35-44,Boston,2023-04-21
+1207,Diego Lee,Bronze,25-34,Toronto,2024-07-23
+1208,Drew Roy,Silver,25-34,Boston,2024-09-22
+1209,Emma Chen,Bronze,18-24,Montreal,2022-11-26
+1210,Jamie Wilson,Silver,45-54,New York,2024-07-28
+1211,Riley Lopez,Gold,18-24,Calgary,2022-08-21
+1212,Jordan Gagnon,Silver,35-44,Toronto,2023-03-02
+1213,Avery Martin,Platinum,25-34,Boston,2024-12-04
+1214,Taylor Brown,Silver,35-44,Montreal,2025-09-08
+1215,Sofia Chen,Gold,25-34,Chicago,2022-03-30
+1216,Taylor Kim,Gold,18-24,Seattle,2024-06-07
+1217,Morgan Garcia,Silver,25-34,Ottawa,2024-02-20
+1218,Wei Martin,Gold,35-44,New York,2024-04-09
+1219,Emma Walker,Gold,18-24,Vancouver,2024-12-13
+1220,Chen Tremblay,Bronze,25-34,New York,2022-04-06
+1221,Drew Smith,Silver,25-34,Edmonton,2024-10-09
+1222,Alex Singh,Silver,25-34,Montreal,2023-01-18
+1223,Noah Clark,Gold,35-44,New York,2022-07-31
+1224,Lucas Lee,Bronze,18-24,Montreal,2023-09-05
+1225,Lucas Patel,Gold,25-34,Chicago,2022-02-07
+1226,Amir Clark,Silver,18-24,Chicago,2024-05-13
+1227,Jordan Roy,Platinum,25-34,Ottawa,2024-02-14
+1228,Amir Roy,Bronze,25-34,Boston,2023-12-04
+1229,Chen Young,Silver,25-34,Chicago,2022-02-11
+1230,Wei Tremblay,Silver,25-34,Ottawa,2024-11-11
+1231,Avery Singh,Gold,55+,Boston,2022-02-18
+1232,Wei Martin,Gold,25-34,Chicago,2022-12-26
+1233,Wei Patel,Silver,45-54,Montreal,2023-06-27
+1234,Jamie Walker,Silver,25-34,Edmonton,2024-08-19
+1235,Alex Singh,Bronze,25-34,Boston,2023-07-13
+1236,Fatima Tremblay,Platinum,18-24,Vancouver,2025-01-23
+1237,Priya Singh,Bronze,25-34,Montreal,2025-07-04
+1238,Jordan Wilson,Silver,35-44,Vancouver,2024-11-14
+1239,Liam Patel,Silver,45-54,Vancouver,2022-02-23
+1240,Sam Nguyen,Bronze,35-44,Boston,2024-11-22
+1241,Olivia Clark,Bronze,35-44,Vancouver,2022-10-10
+1242,Morgan Garcia,Bronze,18-24,Vancouver,2025-05-02
+1243,Avery Brown,Gold,18-24,Chicago,2025-09-02
+1244,Riley Tremblay,Silver,45-54,Edmonton,2022-04-26
+1245,Liam Brown,Bronze,18-24,Chicago,2022-05-16
+1246,Avery Chen,Silver,18-24,Boston,2024-08-13
+1247,Diego Lee,Bronze,55+,Seattle,2022-07-16
+1248,Priya Singh,Gold,55+,Ottawa,2025-08-20
+1249,Amir Clark,Bronze,35-44,Chicago,2024-01-11
+1250,Alex Young,Bronze,25-34,Chicago,2024-02-25
+1251,Ethan Tremblay,Bronze,45-54,Toronto,2025-03-24
+1252,Sofia Nguyen,Silver,25-34,Vancouver,2022-10-25
+1253,Sam Nguyen,Bronze,25-34,Calgary,2024-02-01
+1254,Wei Lee,Silver,25-34,Calgary,2025-09-30
+1255,Priya Nguyen,Bronze,55+,Boston,2022-01-31
+1256,Morgan Clark,Bronze,55+,New York,2022-08-28
+1257,Hana Lopez,Bronze,35-44,Montreal,2022-07-20
+1258,Jordan Gagnon,Bronze,18-24,New York,2023-04-05
+1259,Ethan Kim,Gold,25-34,Chicago,2022-06-27
+1260,Taylor Scott,Bronze,25-34,Calgary,2022-08-24
+1261,Wei Smith,Platinum,45-54,Chicago,2025-03-14
+1262,Casey Wilson,Bronze,18-24,New York,2023-09-29
+1263,Sam Garcia,Bronze,18-24,Chicago,2023-05-06
+1264,Wei Young,Bronze,35-44,Chicago,2023-07-28
+1265,Jordan Martin,Bronze,25-34,Toronto,2025-08-22
+1266,Fatima Gagnon,Silver,45-54,Seattle,2023-11-05
+1267,Diego Patel,Silver,18-24,Ottawa,2023-10-05
+1268,Amir Scott,Bronze,45-54,Seattle,2025-06-25
+1269,Avery Roy,Silver,18-24,Seattle,2022-02-21
+1270,Liam Roy,Silver,18-24,Montreal,2023-10-18
+1271,Jamie Scott,Gold,25-34,Toronto,2024-10-22
+1272,Diego Brown,Platinum,25-34,Calgary,2023-12-07
+1273,Amir Brown,Silver,35-44,Vancouver,2025-04-04
+1274,Lucas Martin,Gold,18-24,Edmonton,2025-04-29
+1275,Wei Nguyen,Silver,18-24,Toronto,2023-04-06
+1276,Olivia Garcia,Bronze,35-44,Toronto,2025-01-25
+1277,Casey Patel,Silver,25-34,Calgary,2022-12-01
+1278,Hana Nguyen,Bronze,35-44,Boston,2022-11-25
+1279,Lucas Clark,Silver,35-44,Vancouver,2025-09-01
+1280,Alex Martin,Platinum,18-24,Vancouver,2022-01-18
+1281,Noah Brown,Bronze,35-44,Ottawa,2023-04-29
+1282,Olivia Wilson,Gold,25-34,Montreal,2024-05-12
+1283,Priya Wilson,Gold,25-34,Montreal,2023-07-21
+1284,Amir Lee,Bronze,18-24,Montreal,2025-03-03
+1285,Drew Young,Silver,45-54,Vancouver,2022-12-11
+1286,Amir Young,Gold,35-44,Montreal,2024-01-28
+1287,Sofia Brown,Platinum,25-34,New York,2022-06-21
+1288,Lucas Garcia,Bronze,55+,Vancouver,2022-10-17
+1289,Riley Roy,Bronze,25-34,Boston,2022-08-26
+1290,Hana Martin,Silver,45-54,New York,2024-10-12
+1291,Drew Roy,Bronze,35-44,New York,2022-10-05
+1292,Jamie Walker,Bronze,55+,Edmonton,2024-07-06
+1293,Avery Martin,Bronze,55+,Chicago,2023-04-19
+1294,Drew Garcia,Bronze,55+,Montreal,2024-02-14
+1295,Hana Garcia,Silver,18-24,Chicago,2025-04-12
+1296,Sam Brown,Silver,45-54,Montreal,2025-03-28
+1297,Liam Tremblay,Silver,45-54,Ottawa,2022-01-16
+1298,Jamie Patel,Silver,35-44,Seattle,2024-12-10
+1299,Maya Khan,Bronze,25-34,Seattle,2025-08-02
+1300,Hana Brown,Bronze,55+,Toronto,2024-07-04
+1301,Chen Singh,Bronze,25-34,Edmonton,2022-09-14
+1302,Lucas Martin,Bronze,25-34,Edmonton,2024-06-29
+1303,Sofia Lopez,Bronze,25-34,Montreal,2024-05-21
+1304,Liam Chen,Bronze,18-24,Edmonton,2024-06-26
+1305,Liam Gagnon,Bronze,35-44,New York,2023-08-11
+1306,Hana Young,Bronze,18-24,Edmonton,2023-12-21
+1307,Morgan Martin,Silver,35-44,Edmonton,2024-06-12
+1308,Jordan Walker,Silver,45-54,Seattle,2023-09-28
+1309,Hana Tremblay,Gold,25-34,Montreal,2024-11-25
+1310,Olivia Young,Silver,35-44,New York,2024-08-30
+1311,Chen Brown,Silver,18-24,Vancouver,2023-02-20
+1312,Jordan Young,Bronze,45-54,Chicago,2024-04-16
+1313,Diego Martin,Silver,55+,Montreal,2024-11-02
+1314,Hana Smith,Bronze,18-24,Seattle,2023-11-03
+1315,Emma Smith,Bronze,35-44,New York,2024-09-06
+1316,Diego Walker,Bronze,25-34,Montreal,2022-06-23
+1317,Fatima Martin,Bronze,25-34,Boston,2023-06-14
+1318,Jordan Smith,Bronze,35-44,Montreal,2024-08-19
+1319,Avery Khan,Silver,25-34,Montreal,2025-05-11
+1320,Taylor Clark,Gold,35-44,Vancouver,2024-06-04
+1321,Casey Roy,Silver,25-34,New York,2024-06-28
+1322,Casey Roy,Silver,25-34,Vancouver,2023-04-14
+1323,Wei Smith,Silver,45-54,Edmonton,2024-08-18
+1324,Noah Lopez,Bronze,18-24,Edmonton,2023-05-04
+1325,Diego Garcia,Silver,35-44,Ottawa,2022-03-13
+1326,Fatima Clark,Silver,18-24,Montreal,2022-12-05
+1327,Hana Brown,Bronze,45-54,Vancouver,2024-04-17
+1328,Chen Martin,Bronze,35-44,Montreal,2025-08-10
+1329,Sam Chen,Gold,25-34,Chicago,2023-11-11
+1330,Olivia Patel,Silver,25-34,Vancouver,2025-03-24
+1331,Priya Lopez,Bronze,25-34,Calgary,2024-12-01
+1332,Taylor Roy,Silver,55+,New York,2024-02-08
+1333,Casey Kim,Bronze,25-34,Boston,2025-01-06
+1334,Riley Scott,Bronze,25-34,New York,2023-07-05
+1335,Sam Scott,Bronze,35-44,Edmonton,2023-08-30
+1336,Lucas Clark,Bronze,25-34,Chicago,2024-10-06
+1337,Chen Patel,Silver,25-34,Seattle,2024-05-25
+1338,Diego Martin,Bronze,25-34,Montreal,2023-12-24
+1339,Hana Clark,Silver,18-24,Ottawa,2023-08-17
+1340,Noah Brown,Bronze,35-44,Vancouver,2025-08-29
+1341,Jordan Nguyen,Silver,45-54,Seattle,2022-03-31
+1342,Drew Gagnon,Silver,55+,Chicago,2022-03-17
+1343,Maya Roy,Silver,45-54,Boston,2023-10-19
+1344,Riley Martin,Silver,25-34,New York,2022-02-16
+1345,Emma Scott,Platinum,25-34,Montreal,2023-04-13
+1346,Sofia Lee,Silver,35-44,Edmonton,2024-02-18
+1347,Fatima Wilson,Silver,55+,Ottawa,2023-07-10
+1348,Diego Brown,Silver,35-44,Edmonton,2022-10-06
+1349,Taylor Wilson,Bronze,25-34,Ottawa,2023-01-26
+1350,Taylor Nguyen,Bronze,35-44,Toronto,2024-04-07
+1351,Fatima Lopez,Bronze,45-54,Chicago,2025-07-27
+1352,Casey Gagnon,Bronze,55+,Seattle,2024-12-06
+1353,Sam Chen,Bronze,35-44,New York,2024-01-20
+1354,Ethan Garcia,Bronze,25-34,New York,2022-07-09
+1355,Sofia Clark,Silver,25-34,Montreal,2022-11-29
+1356,Sam Smith,Bronze,25-34,Edmonton,2023-08-27
+1357,Diego Kim,Gold,25-34,Boston,2022-12-04
+1358,Maya Roy,Bronze,55+,Edmonton,2024-08-01
+1359,Priya Walker,Silver,25-34,Montreal,2023-05-17
+1360,Noah Patel,Bronze,25-34,Vancouver,2025-02-16
+1361,Emma Walker,Bronze,25-34,Seattle,2023-01-04
+1362,Jordan Brown,Bronze,35-44,Montreal,2023-11-11
+1363,Lucas Lee,Silver,25-34,Chicago,2024-09-05
+1364,Taylor Smith,Bronze,18-24,Boston,2022-10-10
+1365,Noah Roy,Gold,45-54,Seattle,2024-11-09
+1366,Hana Kim,Bronze,25-34,Edmonton,2024-03-13
+1367,Diego Singh,Silver,25-34,Montreal,2024-06-06
+1368,Wei Nguyen,Bronze,25-34,Toronto,2023-09-15
+1369,Noah Patel,Silver,35-44,Edmonton,2025-07-05
+1370,Maya Garcia,Bronze,35-44,Vancouver,2024-11-23
+1371,Morgan Tremblay,Bronze,45-54,Ottawa,2022-09-21
+1372,Maya Young,Bronze,18-24,Chicago,2024-02-01
+1373,Morgan Wilson,Bronze,55+,Chicago,2025-05-22
+1374,Casey Gagnon,Bronze,35-44,Vancouver,2023-01-18
+1375,Priya Scott,Platinum,25-34,New York,2024-01-05
+1376,Riley Tremblay,Bronze,25-34,Calgary,2024-10-30
+1377,Noah Walker,Bronze,25-34,Calgary,2023-01-10
+1378,Hana Clark,Platinum,45-54,New York,2023-12-11
+1379,Fatima Lee,Bronze,25-34,Calgary,2024-01-28
+1380,Avery Wilson,Bronze,25-34,Seattle,2022-09-01
+1381,Taylor Wilson,Silver,35-44,Ottawa,2022-09-01
+1382,Drew Smith,Gold,45-54,New York,2024-02-11
+1383,Casey Kim,Silver,35-44,Chicago,2022-09-02
+1384,Drew Scott,Bronze,35-44,Seattle,2025-07-23
+1385,Wei Scott,Platinum,18-24,Toronto,2023-12-19
+1386,Olivia Smith,Bronze,45-54,Ottawa,2024-08-24
+1387,Casey Khan,Platinum,25-34,New York,2023-06-28
+1388,Liam Garcia,Gold,18-24,Chicago,2023-02-14
+1389,Liam Young,Gold,55+,Seattle,2023-10-29
+1390,Drew Smith,Bronze,25-34,Chicago,2024-08-31
+1391,Jamie Young,Bronze,18-24,Ottawa,2023-06-29
+1392,Lucas Gagnon,Silver,35-44,Edmonton,2023-01-23
+1393,Fatima Nguyen,Silver,25-34,Boston,2022-07-17
+1394,Jamie Tremblay,Silver,18-24,New York,2024-01-14
+1395,Alex Gagnon,Gold,35-44,Boston,2024-07-20
+1396,Diego Patel,Silver,35-44,Montreal,2023-12-23
+1397,Sofia Kim,Bronze,45-54,Calgary,2022-12-16
+1398,Sam Young,Bronze,18-24,Calgary,2022-12-05
+1399,Chen Martin,Bronze,35-44,Chicago,2023-06-01
+1400,Ethan Brown,Bronze,45-54,Montreal,2023-04-22
+1401,Lucas Wilson,Bronze,18-24,Vancouver,2022-10-07
+1402,Hana Tremblay,Gold,25-34,Toronto,2025-07-14
+1403,Morgan Scott,Silver,18-24,Ottawa,2023-03-28
+1404,Jamie Garcia,Silver,25-34,Chicago,2022-12-10
+1405,Lucas Patel,Bronze,18-24,Seattle,2024-04-11
+1406,Maya Chen,Silver,35-44,Montreal,2025-01-02
+1407,Morgan Scott,Gold,55+,Boston,2023-09-29
+1408,Morgan Tremblay,Gold,25-34,Edmonton,2024-07-03
+1409,Olivia Clark,Silver,35-44,Chicago,2022-05-11
+1410,Taylor Khan,Gold,25-34,Vancouver,2023-12-31
+1411,Liam Gagnon,Silver,18-24,Chicago,2022-04-02
+1412,Taylor Scott,Bronze,35-44,Vancouver,2022-07-08
+1413,Emma Gagnon,Gold,25-34,Boston,2024-03-22
+1414,Drew Young,Bronze,55+,Vancouver,2022-10-08
+1415,Emma Nguyen,Bronze,25-34,New York,2022-02-20
+1416,Diego Lopez,Bronze,18-24,Vancouver,2022-09-03
+1417,Jamie Kim,Silver,25-34,Seattle,2024-11-24
+1418,Drew Kim,Silver,25-34,New York,2024-03-14
+1419,Hana Clark,Silver,45-54,Montreal,2023-06-08
+1420,Casey Scott,Bronze,35-44,Chicago,2025-08-26
+1421,Priya Khan,Bronze,25-34,Boston,2023-06-13
+1422,Lucas Roy,Gold,25-34,Calgary,2025-04-16
+1423,Wei Roy,Bronze,35-44,Ottawa,2023-04-18
+1424,Chen Brown,Gold,45-54,Chicago,2022-02-04
+1425,Riley Brown,Bronze,18-24,Boston,2022-06-01
+1426,Morgan Brown,Silver,18-24,New York,2023-01-11
+1427,Jordan Tremblay,Silver,18-24,Seattle,2022-09-13
+1428,Sofia Tremblay,Gold,25-34,New York,2022-08-04
+1429,Noah Lopez,Bronze,25-34,Montreal,2023-06-10
+1430,Sofia Wilson,Gold,18-24,Montreal,2025-08-29
+1431,Morgan Young,Silver,25-34,Toronto,2022-10-02
+1432,Amir Lee,Silver,25-34,Toronto,2022-11-19
+1433,Jordan Smith,Silver,18-24,Boston,2025-09-25
+1434,Jamie Patel,Bronze,55+,Seattle,2022-10-03
+1435,Chen Singh,Bronze,35-44,Ottawa,2025-02-11
+1436,Jamie Scott,Bronze,25-34,Edmonton,2024-04-30
+1437,Amir Singh,Bronze,25-34,Ottawa,2025-06-24
+1438,Drew Kim,Silver,25-34,Calgary,2024-02-01
+1439,Olivia Young,Bronze,45-54,Boston,2024-03-24
+1440,Chen Scott,Bronze,35-44,Seattle,2022-11-06
+1441,Sam Singh,Bronze,25-34,Chicago,2024-02-27
+1442,Noah Smith,Bronze,55+,Vancouver,2024-07-07
+1443,Avery Patel,Bronze,45-54,Chicago,2025-09-13
+1444,Diego Tremblay,Silver,45-54,Boston,2022-05-13
+1445,Taylor Patel,Bronze,25-34,Vancouver,2022-08-03
+1446,Taylor Martin,Gold,18-24,Vancouver,2022-01-27
+1447,Drew Young,Bronze,35-44,Ottawa,2024-12-18
+1448,Riley Kim,Bronze,25-34,Chicago,2022-04-23
+1449,Olivia Lee,Gold,35-44,Montreal,2025-06-08
+1450,Lucas Singh,Bronze,35-44,Montreal,2023-05-15
+1451,Maya Gagnon,Bronze,25-34,Calgary,2023-01-31
+1452,Chen Lee,Platinum,25-34,Ottawa,2025-08-28
+1453,Olivia Clark,Gold,25-34,Seattle,2024-09-13
+1454,Emma Young,Silver,25-34,New York,2024-01-20
+1455,Taylor Garcia,Bronze,35-44,Ottawa,2025-05-02
+1456,Jordan Tremblay,Silver,35-44,Ottawa,2024-10-30
+1457,Wei Singh,Platinum,25-34,Toronto,2024-05-23
+1458,Priya Wilson,Gold,35-44,Chicago,2023-03-17
+1459,Emma Young,Bronze,25-34,Calgary,2025-09-12
+1460,Chen Brown,Bronze,35-44,New York,2024-09-12
+1461,Avery Lopez,Bronze,25-34,Ottawa,2025-07-19
+1462,Taylor Kim,Bronze,35-44,Montreal,2025-08-16
+1463,Priya Patel,Silver,35-44,Edmonton,2024-01-23
+1464,Emma Garcia,Bronze,25-34,Montreal,2023-05-06
+1465,Morgan Walker,Bronze,35-44,New York,2025-07-21
+1466,Morgan Walker,Bronze,45-54,Chicago,2025-09-30
+1467,Morgan Wilson,Bronze,25-34,Vancouver,2022-06-17
+1468,Amir Singh,Bronze,35-44,New York,2024-05-24
+1469,Lucas Khan,Bronze,55+,Chicago,2024-04-05
+1470,Fatima Patel,Bronze,45-54,Seattle,2024-10-22
+1471,Ethan Young,Platinum,25-34,Toronto,2025-08-29
+1472,Lucas Patel,Bronze,35-44,Ottawa,2022-12-12
+1473,Amir Nguyen,Silver,55+,Chicago,2025-08-29
+1474,Noah Roy,Bronze,35-44,Chicago,2024-05-31
+1475,Liam Kim,Bronze,18-24,Vancouver,2022-04-24
+1476,Alex Kim,Bronze,18-24,Edmonton,2023-12-02
+1477,Diego Wilson,Bronze,45-54,Edmonton,2022-07-02
+1478,Riley Scott,Bronze,25-34,New York,2025-08-03
+1479,Jordan Roy,Bronze,25-34,Boston,2024-11-11
+1480,Maya Roy,Silver,25-34,Vancouver,2025-05-24
+1481,Diego Wilson,Bronze,35-44,Seattle,2024-04-05
+1482,Hana Tremblay,Bronze,25-34,Toronto,2023-06-28
+1483,Sofia Martin,Silver,45-54,Toronto,2023-08-10
+1484,Riley Singh,Bronze,35-44,Chicago,2025-07-21
+1485,Ethan Lee,Bronze,55+,Ottawa,2022-07-27
+1486,Emma Tremblay,Bronze,45-54,Chicago,2025-04-27
+1487,Noah Scott,Bronze,25-34,Montreal,2023-08-02
+1488,Alex Roy,Bronze,35-44,Vancouver,2024-03-19
+1489,Maya Clark,Platinum,18-24,Toronto,2024-07-02
+1490,Jamie Roy,Platinum,55+,Chicago,2022-04-23
+1491,Ethan Tremblay,Platinum,25-34,Vancouver,2022-07-23
+1492,Amir Gagnon,Bronze,35-44,Ottawa,2022-08-09
+1493,Ethan Lee,Bronze,45-54,Calgary,2024-12-02
+1494,Sofia Lopez,Bronze,18-24,Ottawa,2022-04-16
+1495,Fatima Wilson,Bronze,45-54,Boston,2024-04-16
+1496,Wei Lee,Bronze,18-24,Toronto,2022-05-28
+1497,Morgan Clark,Bronze,25-34,Calgary,2024-11-17
+1498,Lucas Lee,Bronze,25-34,Vancouver,2025-08-31
+1499,Jamie Garcia,Bronze,25-34,Toronto,2023-07-22
+1500,Priya Walker,Bronze,35-44,Toronto,2022-10-18
+1501,Lucas Walker,Silver,55+,Edmonton,2023-09-02
+1502,Diego Scott,Bronze,25-34,Vancouver,2024-08-04
+1503,Ethan Brown,Gold,35-44,Ottawa,2024-09-23
+1504,Noah Wilson,Bronze,45-54,Ottawa,2024-05-22
+1505,Emma Gagnon,Silver,45-54,Seattle,2024-03-08
+1506,Drew Kim,Bronze,18-24,Boston,2024-05-14
+1507,Sam Khan,Bronze,55+,New York,2022-10-25
+1508,Maya Roy,Bronze,18-24,Seattle,2022-10-11
+1509,Liam Singh,Bronze,35-44,Toronto,2025-06-29
+1510,Noah Khan,Silver,35-44,New York,2024-03-04
+1511,Avery Nguyen,Bronze,45-54,Boston,2025-03-25
+1512,Drew Patel,Bronze,18-24,Montreal,2024-05-06
+1513,Drew Lee,Gold,18-24,Edmonton,2023-09-16
+1514,Jordan Khan,Bronze,35-44,Boston,2024-02-21
+1515,Casey Clark,Silver,18-24,New York,2024-08-05
+1516,Sofia Chen,Silver,25-34,Montreal,2022-09-13
+1517,Noah Nguyen,Bronze,35-44,New York,2023-09-26
+1518,Jordan Scott,Bronze,35-44,Boston,2024-09-17
+1519,Amir Patel,Bronze,25-34,Toronto,2022-04-30
+1520,Jamie Patel,Silver,25-34,Edmonton,2022-04-11
+1521,Drew Chen,Bronze,55+,Edmonton,2022-08-08
+1522,Avery Kim,Bronze,25-34,Vancouver,2024-03-20
+1523,Morgan Clark,Bronze,18-24,Toronto,2022-11-23
+1524,Sofia Lopez,Gold,25-34,Toronto,2023-08-21
+1525,Morgan Khan,Silver,25-34,Boston,2022-07-03
+1526,Amir Patel,Gold,55+,Seattle,2022-12-09
+1527,Sofia Brown,Silver,25-34,Calgary,2022-01-25
+1528,Lucas Roy,Silver,18-24,Chicago,2025-01-11
+1529,Amir Nguyen,Bronze,25-34,Chicago,2023-10-02
+1530,Drew Chen,Gold,18-24,New York,2022-08-29
+1531,Riley Garcia,Silver,25-34,Edmonton,2023-12-22
+1532,Drew Nguyen,Bronze,55+,Chicago,2025-07-02
+1533,Ethan Martin,Silver,35-44,New York,2025-02-03
+1534,Amir Khan,Silver,18-24,Chicago,2025-04-26
+1535,Taylor Tremblay,Bronze,25-34,Chicago,2023-07-11
+1536,Priya Roy,Bronze,18-24,Ottawa,2023-05-10
+1537,Riley Lopez,Bronze,18-24,New York,2023-03-10
+1538,Noah Khan,Gold,35-44,Boston,2023-02-23
+1539,Jordan Gagnon,Bronze,25-34,Seattle,2025-06-13
+1540,Casey Wilson,Gold,35-44,Vancouver,2022-07-08
+1541,Priya Gagnon,Bronze,45-54,Seattle,2025-03-12
+1542,Riley Singh,Silver,25-34,Calgary,2025-06-09
+1543,Avery Brown,Bronze,55+,Vancouver,2025-03-02
+1544,Morgan Patel,Gold,25-34,Ottawa,2024-05-09
+1545,Casey Roy,Bronze,25-34,Vancouver,2025-03-18
+1546,Avery Brown,Bronze,45-54,Chicago,2022-02-13
+1547,Ethan Singh,Bronze,18-24,Boston,2025-01-24
+1548,Fatima Lopez,Bronze,35-44,Boston,2023-12-02
+1549,Morgan Garcia,Bronze,35-44,Seattle,2025-08-06
+1550,Morgan Chen,Silver,25-34,Montreal,2022-04-28
+1551,Drew Nguyen,Gold,45-54,New York,2025-06-28
+1552,Alex Wilson,Silver,25-34,Vancouver,2024-02-26
+1553,Ethan Garcia,Silver,45-54,Seattle,2022-05-23
+1554,Chen Brown,Bronze,18-24,Calgary,2023-11-29
+1555,Fatima Singh,Gold,18-24,Seattle,2022-02-20
+1556,Liam Lopez,Gold,25-34,Boston,2022-04-24
+1557,Sam Young,Bronze,45-54,Boston,2023-12-30
+1558,Drew Roy,Platinum,18-24,Chicago,2025-01-22
+1559,Emma Lee,Bronze,45-54,Boston,2022-05-29
+1560,Alex Clark,Gold,25-34,Vancouver,2022-12-26
+1561,Emma Scott,Platinum,25-34,Edmonton,2023-06-21
+1562,Wei Lee,Silver,25-34,Calgary,2024-01-12
+1563,Wei Clark,Bronze,18-24,Toronto,2022-01-01
+1564,Amir Young,Silver,55+,Edmonton,2024-05-25
+1565,Maya Lopez,Bronze,25-34,Calgary,2023-11-14
+1566,Avery Roy,Silver,35-44,Vancouver,2025-08-11
+1567,Lucas Tremblay,Bronze,35-44,Ottawa,2023-02-17
+1568,Ethan Smith,Silver,25-34,Edmonton,2023-11-08
+1569,Noah Roy,Gold,35-44,Edmonton,2022-04-22
+1570,Wei Roy,Bronze,45-54,Ottawa,2025-06-10
+1571,Maya Wilson,Bronze,35-44,New York,2025-02-16
+1572,Wei Martin,Silver,25-34,Ottawa,2023-05-02
+1573,Lucas Martin,Bronze,35-44,Ottawa,2023-09-23
+1574,Olivia Gagnon,Bronze,35-44,Calgary,2025-03-20
+1575,Hana Nguyen,Bronze,25-34,Vancouver,2023-02-09
+1576,Ethan Singh,Bronze,35-44,Chicago,2022-11-20
+1577,Morgan Lopez,Silver,25-34,Toronto,2022-11-28
+1578,Sam Gagnon,Silver,35-44,Vancouver,2024-08-27
+1579,Lucas Scott,Bronze,55+,Boston,2022-10-17
+1580,Olivia Clark,Bronze,55+,Montreal,2022-05-02
+1581,Jordan Clark,Bronze,45-54,Chicago,2022-08-15
+1582,Morgan Garcia,Bronze,35-44,Boston,2025-09-12
+1583,Taylor Wilson,Silver,35-44,Chicago,2025-04-10
+1584,Sofia Chen,Bronze,18-24,Chicago,2025-07-30
+1585,Amir Lee,Silver,25-34,Ottawa,2023-01-15
+1586,Emma Young,Gold,25-34,Calgary,2023-08-29
+1587,Priya Garcia,Silver,18-24,Boston,2023-11-04
+1588,Hana Martin,Silver,55+,Toronto,2023-12-19
+1589,Emma Chen,Bronze,45-54,Calgary,2022-02-06
+1590,Casey Patel,Bronze,25-34,New York,2024-03-29
+1591,Casey Patel,Bronze,25-34,Boston,2022-02-23
+1592,Sofia Tremblay,Silver,35-44,Calgary,2023-01-12
+1593,Emma Young,Gold,25-34,Seattle,2023-02-05
+1594,Lucas Wilson,Bronze,45-54,New York,2024-07-13
+1595,Sam Gagnon,Bronze,55+,Toronto,2025-05-13
+1596,Alex Walker,Bronze,25-34,Montreal,2024-08-15
+1597,Olivia Patel,Silver,25-34,Chicago,2023-08-20
+1598,Sofia Patel,Silver,25-34,Toronto,2023-12-21
+1599,Casey Gagnon,Silver,18-24,Ottawa,2023-12-03
+1600,Hana Chen,Gold,25-34,Vancouver,2022-07-22
+1601,Diego Young,Bronze,18-24,Chicago,2025-08-04
+1602,Lucas Nguyen,Silver,18-24,Boston,2025-06-13
+1603,Jamie Walker,Silver,25-34,Ottawa,2022-11-25
+1604,Hana Gagnon,Bronze,18-24,Vancouver,2022-06-07
+1605,Priya Singh,Gold,35-44,Chicago,2022-08-15
+1606,Hana Chen,Bronze,18-24,Montreal,2024-05-11
+1607,Avery Scott,Silver,45-54,Edmonton,2022-02-10
+1608,Noah Chen,Silver,25-34,Calgary,2022-05-22
+1609,Alex Wilson,Gold,18-24,Boston,2024-06-07
+1610,Hana Wilson,Silver,18-24,Boston,2022-07-20
+1611,Ethan Chen,Bronze,35-44,Seattle,2022-04-05
+1612,Lucas Lopez,Gold,25-34,Ottawa,2022-01-29
+1613,Emma Lopez,Silver,25-34,Calgary,2024-08-24
+1614,Noah Brown,Silver,18-24,New York,2023-05-13
+1615,Sofia Gagnon,Silver,55+,Calgary,2023-01-25
+1616,Chen Singh,Bronze,18-24,New York,2024-05-26
+1617,Olivia Smith,Silver,25-34,New York,2022-08-22
+1618,Noah Martin,Gold,45-54,Vancouver,2023-12-16
+1619,Drew Scott,Bronze,25-34,Ottawa,2023-10-25
+1620,Fatima Smith,Bronze,25-34,Chicago,2024-07-13
+1621,Casey Singh,Platinum,45-54,Seattle,2024-05-04
+1622,Fatima Kim,Silver,25-34,Seattle,2024-07-13
+1623,Sofia Gagnon,Gold,18-24,Montreal,2022-10-19
+1624,Lucas Tremblay,Bronze,25-34,Vancouver,2022-07-12
+1625,Taylor Brown,Platinum,18-24,Vancouver,2024-01-02
+1626,Avery Khan,Bronze,55+,Toronto,2022-03-20
+1627,Taylor Brown,Silver,35-44,Ottawa,2023-09-15
+1628,Casey Patel,Bronze,35-44,Vancouver,2024-05-06
+1629,Morgan Patel,Silver,25-34,Chicago,2025-01-29
+1630,Noah Wilson,Gold,35-44,Montreal,2024-06-13
+1631,Priya Roy,Silver,35-44,Edmonton,2025-09-24
+1632,Sofia Clark,Silver,18-24,Edmonton,2024-02-02
+1633,Liam Lee,Bronze,45-54,Vancouver,2023-09-04
+1634,Sofia Walker,Silver,35-44,Chicago,2022-12-03
+1635,Taylor Scott,Silver,45-54,Toronto,2024-07-11
+1636,Morgan Wilson,Bronze,25-34,Seattle,2025-01-15
+1637,Olivia Wilson,Silver,18-24,Boston,2023-03-16
+1638,Riley Young,Gold,35-44,Vancouver,2022-04-14
+1639,Sam Singh,Silver,45-54,Boston,2022-01-15
+1640,Hana Khan,Silver,25-34,Calgary,2024-05-16
+1641,Jordan Lopez,Bronze,18-24,Chicago,2024-06-27
+1642,Hana Tremblay,Silver,45-54,Toronto,2022-06-14
+1643,Priya Roy,Bronze,25-34,Toronto,2022-01-31
+1644,Taylor Singh,Bronze,25-34,Edmonton,2024-06-15
+1645,Morgan Patel,Bronze,35-44,Chicago,2023-06-29
+1646,Priya Roy,Bronze,18-24,Toronto,2023-07-27
+1647,Casey Chen,Bronze,18-24,Boston,2022-12-26
+1648,Morgan Lopez,Silver,18-24,Chicago,2024-09-10
+1649,Casey Young,Bronze,55+,Calgary,2024-10-17
+1650,Liam Gagnon,Bronze,25-34,Seattle,2022-03-13
+1651,Emma Chen,Bronze,35-44,Boston,2022-05-03
+1652,Emma Chen,Silver,55+,Montreal,2024-01-31
+1653,Jordan Chen,Bronze,35-44,Seattle,2024-04-06
+1654,Riley Nguyen,Bronze,25-34,New York,2022-07-18
+1655,Alex Young,Silver,25-34,Toronto,2022-08-05
+1656,Maya Wilson,Bronze,25-34,Edmonton,2024-07-23
+1657,Diego Singh,Gold,35-44,New York,2023-09-15
+1658,Priya Gagnon,Bronze,55+,Seattle,2022-06-14
+1659,Emma Brown,Bronze,45-54,Boston,2024-04-15
+1660,Riley Smith,Bronze,25-34,Calgary,2022-04-11
+1661,Jordan Patel,Silver,25-34,Montreal,2022-11-12
+1662,Lucas Lee,Bronze,45-54,Ottawa,2024-09-03
+1663,Priya Lopez,Gold,18-24,Toronto,2022-11-01
+1664,Morgan Singh,Bronze,45-54,New York,2022-03-29
+1665,Drew Young,Silver,25-34,Chicago,2025-08-08
+1666,Emma Clark,Bronze,35-44,Toronto,2022-11-04
+1667,Riley Gagnon,Bronze,45-54,Boston,2023-12-07
+1668,Sam Singh,Bronze,25-34,Edmonton,2025-02-03
+1669,Liam Tremblay,Silver,18-24,Ottawa,2025-09-18
+1670,Chen Clark,Bronze,45-54,Montreal,2025-01-14
+1671,Liam Garcia,Platinum,25-34,Montreal,2023-04-11
+1672,Jordan Lee,Silver,25-34,New York,2025-03-16
+1673,Liam Lopez,Platinum,25-34,Montreal,2022-01-18
+1674,Emma Nguyen,Bronze,25-34,Seattle,2023-03-23
+1675,Taylor Lopez,Silver,35-44,Vancouver,2022-10-01
+1676,Taylor Young,Silver,18-24,Ottawa,2023-12-25
+1677,Jordan Khan,Silver,25-34,Toronto,2025-05-06
+1678,Hana Wilson,Platinum,45-54,Calgary,2024-11-25
+1679,Sam Clark,Silver,18-24,Calgary,2025-09-29
+1680,Morgan Kim,Gold,25-34,Boston,2022-07-07
+1681,Hana Khan,Silver,35-44,Calgary,2024-10-27
+1682,Sam Gagnon,Bronze,45-54,Ottawa,2024-09-19
+1683,Morgan Khan,Silver,35-44,Montreal,2023-09-18
+1684,Emma Chen,Bronze,45-54,Edmonton,2022-05-14
+1685,Priya Nguyen,Gold,25-34,Vancouver,2022-05-24
+1686,Hana Singh,Gold,25-34,New York,2025-06-05
+1687,Jamie Kim,Bronze,55+,Chicago,2023-02-09
+1688,Olivia Kim,Bronze,45-54,Vancouver,2024-05-23
+1689,Maya Martin,Bronze,35-44,Edmonton,2025-07-19
+1690,Chen Brown,Bronze,25-34,Seattle,2023-11-07
+1691,Amir Lopez,Bronze,25-34,Montreal,2022-10-15
+1692,Hana Young,Silver,18-24,Edmonton,2023-10-27
+1693,Lucas Singh,Silver,45-54,Vancouver,2022-11-11
+1694,Lucas Khan,Gold,45-54,New York,2022-09-06
+1695,Jamie Walker,Bronze,25-34,Boston,2025-01-16
+1696,Riley Kim,Silver,25-34,Ottawa,2023-04-19
+1697,Lucas Patel,Bronze,25-34,Ottawa,2024-07-27
+1698,Avery Lopez,Gold,18-24,Toronto,2024-09-23
+1699,Wei Scott,Bronze,35-44,Toronto,2024-01-23
+1700,Alex Khan,Bronze,35-44,Toronto,2024-01-12
+1701,Amir Young,Bronze,25-34,Boston,2022-09-05
+1702,Taylor Scott,Gold,35-44,Chicago,2023-12-27
+1703,Drew Brown,Bronze,55+,Calgary,2024-10-26
+1704,Avery Lee,Silver,18-24,Seattle,2022-09-25
+1705,Olivia Roy,Silver,25-34,Boston,2022-11-14
+1706,Sam Scott,Silver,25-34,Seattle,2024-08-03
+1707,Casey Tremblay,Bronze,18-24,Boston,2025-09-07
+1708,Noah Wilson,Bronze,25-34,Ottawa,2023-06-22
+1709,Emma Clark,Bronze,35-44,Edmonton,2025-02-08
+1710,Jordan Chen,Bronze,18-24,Edmonton,2022-09-08
+1711,Maya Lopez,Silver,18-24,New York,2024-02-20
+1712,Emma Brown,Bronze,45-54,Boston,2025-07-16
+1713,Emma Scott,Bronze,25-34,Ottawa,2023-08-28
+1714,Maya Clark,Bronze,35-44,New York,2023-11-26
+1715,Lucas Garcia,Silver,35-44,Seattle,2022-08-01
+1716,Riley Lopez,Bronze,45-54,Ottawa,2023-12-25
+1717,Casey Garcia,Silver,35-44,Calgary,2024-03-13
+1718,Casey Lee,Bronze,45-54,Seattle,2025-09-06
+1719,Jamie Walker,Platinum,35-44,Toronto,2022-10-03
+1720,Diego Gagnon,Silver,25-34,Ottawa,2023-05-17
+1721,Diego Smith,Bronze,25-34,Seattle,2024-06-05
+1722,Wei Singh,Bronze,25-34,Ottawa,2025-07-15
+1723,Fatima Khan,Bronze,25-34,Boston,2022-11-22
+1724,Avery Martin,Bronze,18-24,Chicago,2024-08-10
+1725,Emma Roy,Bronze,25-34,Calgary,2025-04-19
+1726,Wei Tremblay,Gold,25-34,Calgary,2024-05-17
+1727,Wei Garcia,Silver,18-24,Calgary,2023-08-08
+1728,Amir Clark,Bronze,25-34,Vancouver,2022-11-18
+1729,Sofia Smith,Silver,35-44,Vancouver,2023-01-30
+1730,Chen Brown,Bronze,35-44,Edmonton,2022-03-12
+1731,Priya Young,Platinum,45-54,Seattle,2022-07-28
+1732,Chen Tremblay,Bronze,25-34,Chicago,2023-08-23
+1733,Avery Khan,Silver,45-54,Seattle,2022-07-12
+1734,Liam Chen,Silver,45-54,Ottawa,2022-01-14
+1735,Liam Clark,Bronze,18-24,Vancouver,2024-08-06
+1736,Casey Khan,Bronze,55+,Boston,2022-04-08
+1737,Sofia Clark,Bronze,18-24,Edmonton,2022-07-13
+1738,Jamie Singh,Gold,35-44,Vancouver,2024-03-26
+1739,Liam Kim,Silver,45-54,Vancouver,2025-06-16
+1740,Priya Lopez,Silver,25-34,Ottawa,2024-09-19
+1741,Lucas Singh,Silver,35-44,Vancouver,2022-02-14
+1742,Lucas Singh,Gold,25-34,Calgary,2022-08-19
+1743,Priya Smith,Bronze,18-24,Calgary,2024-10-11
+1744,Avery Scott,Silver,18-24,Edmonton,2024-09-30
+1745,Wei Khan,Silver,18-24,Montreal,2023-06-20
+1746,Jordan Lee,Bronze,18-24,Montreal,2025-07-25
+1747,Drew Khan,Gold,35-44,Seattle,2025-05-02
+1748,Diego Kim,Bronze,25-34,Calgary,2024-10-15
+1749,Jordan Roy,Bronze,25-34,Montreal,2024-10-22
+1750,Taylor Wilson,Gold,35-44,New York,2024-12-11
+1751,Sam Lee,Bronze,18-24,Edmonton,2022-07-23
+1752,Jamie Singh,Bronze,25-34,Edmonton,2024-08-17
+1753,Alex Clark,Bronze,45-54,Montreal,2025-07-11
+1754,Amir Gagnon,Silver,55+,Boston,2022-11-04
+1755,Sam Garcia,Gold,25-34,Ottawa,2022-01-21
+1756,Hana Martin,Bronze,18-24,Seattle,2023-05-10
+1757,Taylor Nguyen,Bronze,45-54,Calgary,2023-01-05
+1758,Riley Scott,Bronze,45-54,Calgary,2025-07-24
+1759,Morgan Young,Platinum,25-34,Vancouver,2023-09-03
+1760,Olivia Young,Bronze,25-34,Calgary,2024-06-24
+1761,Amir Garcia,Platinum,18-24,New York,2025-09-07
+1762,Amir Patel,Gold,35-44,Calgary,2024-12-16
+1763,Jamie Singh,Bronze,55+,Ottawa,2024-10-23
+1764,Taylor Tremblay,Gold,35-44,Edmonton,2025-08-20
+1765,Morgan Nguyen,Silver,25-34,Montreal,2024-08-01
+1766,Drew Tremblay,Silver,35-44,Ottawa,2022-11-14
+1767,Sam Scott,Bronze,45-54,Seattle,2024-09-22
+1768,Jordan Tremblay,Gold,25-34,Vancouver,2023-03-17
+1769,Alex Nguyen,Silver,45-54,Edmonton,2023-03-30
+1770,Liam Gagnon,Silver,25-34,Ottawa,2024-06-02
+1771,Sofia Martin,Platinum,25-34,Vancouver,2023-03-09
+1772,Jordan Lopez,Bronze,35-44,Vancouver,2022-02-03
+1773,Alex Lee,Gold,25-34,Ottawa,2025-10-01
+1774,Priya Clark,Gold,55+,Chicago,2024-02-22
+1775,Jamie Lee,Bronze,25-34,Vancouver,2024-07-06
+1776,Priya Kim,Bronze,25-34,Edmonton,2025-01-12
+1777,Diego Khan,Bronze,25-34,Edmonton,2024-05-19
+1778,Priya Wilson,Gold,25-34,Calgary,2024-04-16
+1779,Ethan Garcia,Bronze,25-34,Edmonton,2024-12-20
+1780,Morgan Roy,Silver,35-44,Edmonton,2023-02-09
+1781,Sam Patel,Bronze,25-34,Toronto,2025-02-08
+1782,Priya Lopez,Bronze,25-34,New York,2024-09-19
+1783,Lucas Chen,Silver,35-44,Ottawa,2022-09-07
+1784,Priya Patel,Bronze,18-24,Calgary,2022-07-20
+1785,Sofia Singh,Gold,35-44,Vancouver,2025-04-20
+1786,Lucas Gagnon,Bronze,25-34,Calgary,2025-05-10
+1787,Ethan Garcia,Gold,25-34,Toronto,2025-09-23
+1788,Diego Walker,Bronze,35-44,Boston,2022-05-19
+1789,Olivia Clark,Platinum,35-44,Calgary,2025-05-11
+1790,Fatima Tremblay,Silver,45-54,Toronto,2025-03-28
+1791,Fatima Lopez,Bronze,25-34,Toronto,2024-11-17
+1792,Casey Garcia,Bronze,25-34,Edmonton,2023-11-13
+1793,Sofia Singh,Bronze,35-44,New York,2023-11-28
+1794,Wei Walker,Silver,35-44,Edmonton,2023-08-11
+1795,Olivia Young,Gold,35-44,Boston,2022-02-10
+1796,Jordan Chen,Bronze,35-44,Boston,2023-11-17
+1797,Hana Martin,Bronze,45-54,Seattle,2022-11-21
+1798,Riley Chen,Silver,18-24,Chicago,2022-10-02
+1799,Avery Martin,Silver,35-44,Seattle,2022-03-18
+1800,Jamie Lee,Silver,18-24,Boston,2023-09-20
+1801,Wei Lee,Bronze,25-34,Calgary,2022-03-07
+1802,Taylor Lee,Silver,35-44,Edmonton,2025-03-10
+1803,Diego Nguyen,Platinum,25-34,New York,2025-05-03
+1804,Avery Walker,Bronze,25-34,Ottawa,2025-01-02
+1805,Emma Walker,Bronze,45-54,New York,2023-02-17
+1806,Liam Walker,Bronze,45-54,Edmonton,2022-08-12
+1807,Emma Tremblay,Silver,25-34,Edmonton,2023-11-23
+1808,Sofia Wilson,Bronze,55+,Seattle,2024-07-11
+1809,Sam Wilson,Gold,25-34,New York,2022-01-29
+1810,Priya Tremblay,Silver,45-54,Chicago,2025-03-19
+1811,Hana Singh,Silver,18-24,Chicago,2023-08-24
+1812,Avery Wilson,Silver,25-34,Seattle,2025-01-28
+1813,Amir Khan,Bronze,25-34,Montreal,2022-04-17
+1814,Lucas Singh,Gold,18-24,Ottawa,2023-08-07
+1815,Chen Gagnon,Bronze,25-34,Montreal,2023-09-20
+1816,Wei Kim,Silver,18-24,Boston,2022-03-07
+1817,Alex Lopez,Gold,35-44,Seattle,2024-08-27
+1818,Hana Roy,Silver,18-24,Seattle,2025-06-29
+1819,Liam Roy,Gold,18-24,New York,2024-01-11
+1820,Jordan Lee,Bronze,55+,New York,2023-06-27
+1821,Sofia Young,Gold,35-44,Chicago,2024-05-21
+1822,Diego Roy,Silver,55+,New York,2023-05-10
+1823,Diego Kim,Silver,25-34,Ottawa,2023-05-08
+1824,Olivia Lee,Bronze,18-24,Edmonton,2024-11-06
+1825,Hana Khan,Bronze,35-44,Vancouver,2024-03-20
+1826,Taylor Tremblay,Silver,35-44,New York,2022-12-28
+1827,Priya Kim,Bronze,18-24,New York,2023-07-13
+1828,Olivia Roy,Silver,45-54,Montreal,2025-02-17
+1829,Maya Young,Gold,35-44,Montreal,2023-12-26
+1830,Avery Roy,Gold,35-44,Toronto,2022-04-15
+1831,Liam Roy,Bronze,25-34,Montreal,2025-03-20
+1832,Hana Scott,Gold,35-44,Seattle,2024-10-11
+1833,Maya Roy,Bronze,25-34,New York,2023-01-01
+1834,Noah Patel,Bronze,55+,Chicago,2025-08-16
+1835,Priya Singh,Gold,25-34,Chicago,2025-07-28
+1836,Taylor Tremblay,Bronze,18-24,Seattle,2025-09-26
+1837,Noah Smith,Bronze,18-24,Ottawa,2023-06-02
+1838,Olivia Wilson,Bronze,35-44,Vancouver,2025-06-19
+1839,Drew Lopez,Silver,55+,Toronto,2025-01-09
+1840,Liam Khan,Gold,45-54,Toronto,2025-04-07
+1841,Ethan Smith,Bronze,35-44,Montreal,2024-01-20
+1842,Casey Martin,Bronze,55+,Montreal,2023-01-18
+1843,Hana Patel,Silver,35-44,Toronto,2022-11-07
+1844,Jordan Young,Bronze,25-34,Seattle,2025-08-17
+1845,Hana Patel,Silver,35-44,Edmonton,2023-11-20
+1846,Priya Lee,Gold,18-24,New York,2025-06-25
+1847,Morgan Garcia,Silver,25-34,New York,2024-01-30
+1848,Drew Lee,Gold,25-34,Chicago,2024-01-03
+1849,Jamie Wilson,Silver,25-34,Ottawa,2022-04-11
+1850,Jamie Lopez,Gold,55+,Vancouver,2023-07-05
+1851,Taylor Singh,Bronze,55+,Vancouver,2024-02-01
+1852,Riley Young,Bronze,25-34,Edmonton,2022-05-30
+1853,Diego Kim,Silver,35-44,Edmonton,2022-08-10
+1854,Taylor Lopez,Bronze,25-34,Boston,2024-03-20
+1855,Maya Gagnon,Gold,18-24,Edmonton,2022-12-06
+1856,Avery Scott,Silver,25-34,Montreal,2024-08-17
+1857,Amir Singh,Platinum,25-34,Edmonton,2023-09-23
+1858,Sofia Chen,Bronze,25-34,Chicago,2023-07-08
+1859,Avery Chen,Bronze,25-34,Edmonton,2022-06-10
+1860,Ethan Chen,Silver,18-24,Edmonton,2023-07-11
+1861,Emma Martin,Bronze,25-34,Ottawa,2024-01-13
+1862,Sofia Scott,Silver,55+,Toronto,2024-02-25
+1863,Alex Scott,Silver,18-24,Montreal,2023-01-06
+1864,Jordan Kim,Platinum,25-34,Toronto,2022-02-08
+1865,Avery Lee,Silver,25-34,Calgary,2025-07-04
+1866,Sofia Clark,Bronze,25-34,Seattle,2025-08-05
+1867,Priya Young,Bronze,25-34,Calgary,2025-05-23
+1868,Avery Singh,Silver,18-24,New York,2023-02-02
+1869,Drew Kim,Bronze,35-44,Seattle,2024-04-05
+1870,Olivia Gagnon,Bronze,35-44,Boston,2022-07-13
+1871,Casey Garcia,Bronze,35-44,New York,2025-05-25
+1872,Diego Wilson,Bronze,35-44,Boston,2022-01-08
+1873,Riley Scott,Silver,25-34,Montreal,2023-10-07
+1874,Wei Scott,Bronze,25-34,Calgary,2025-03-19
+1875,Fatima Young,Silver,25-34,Vancouver,2024-09-21
+1876,Noah Lopez,Bronze,25-34,Boston,2025-03-28
+1877,Hana Chen,Silver,18-24,Calgary,2023-11-12
+1878,Alex Garcia,Bronze,25-34,Chicago,2022-05-11
+1879,Emma Kim,Gold,35-44,Ottawa,2022-01-11
+1880,Jordan Martin,Bronze,18-24,Ottawa,2022-07-28
+1881,Morgan Kim,Silver,18-24,Boston,2022-03-20
+1882,Noah Lee,Bronze,35-44,Boston,2023-09-06
+1883,Priya Wilson,Bronze,25-34,New York,2022-03-11
+1884,Olivia Khan,Bronze,45-54,Vancouver,2022-09-12
+1885,Amir Garcia,Gold,55+,Toronto,2023-07-29
+1886,Priya Garcia,Gold,55+,Vancouver,2024-10-05
+1887,Liam Nguyen,Bronze,25-34,Calgary,2024-07-12
+1888,Priya Patel,Bronze,25-34,Calgary,2022-03-21
+1889,Liam Clark,Silver,35-44,Chicago,2025-05-22
+1890,Hana Wilson,Silver,35-44,Seattle,2024-01-24
+1891,Sam Singh,Bronze,35-44,Boston,2023-04-23
+1892,Jordan Lopez,Silver,25-34,Toronto,2023-06-09
+1893,Hana Martin,Silver,18-24,Ottawa,2025-03-08
+1894,Morgan Smith,Silver,25-34,Calgary,2023-09-29
+1895,Hana Garcia,Bronze,18-24,New York,2022-12-03
+1896,Jordan Patel,Bronze,18-24,New York,2023-08-05
+1897,Riley Walker,Bronze,55+,Montreal,2022-04-04
+1898,Fatima Chen,Silver,18-24,Ottawa,2022-07-29
+1899,Ethan Tremblay,Bronze,35-44,Vancouver,2023-03-07
+1900,Alex Tremblay,Silver,55+,Boston,2022-10-29
+1901,Diego Martin,Silver,25-34,Chicago,2023-04-24
+1902,Amir Smith,Silver,25-34,Chicago,2022-03-30
+1903,Alex Gagnon,Bronze,35-44,Edmonton,2024-04-15
+1904,Jordan Patel,Bronze,25-34,Toronto,2022-06-07
+1905,Maya Lee,Bronze,25-34,Chicago,2022-10-25
+1906,Casey Wilson,Silver,45-54,Ottawa,2025-09-01
+1907,Olivia Wilson,Gold,35-44,Montreal,2022-01-09
+1908,Drew Tremblay,Bronze,45-54,Chicago,2023-01-19
+1909,Wei Gagnon,Gold,55+,Edmonton,2023-11-17
+1910,Emma Clark,Bronze,25-34,Ottawa,2023-02-25
+1911,Taylor Smith,Bronze,35-44,Edmonton,2023-03-16
+1912,Liam Patel,Bronze,35-44,Toronto,2022-06-24
+1913,Noah Young,Silver,35-44,Vancouver,2023-08-04
+1914,Avery Kim,Bronze,35-44,Chicago,2024-10-31
+1915,Ethan Patel,Bronze,35-44,Montreal,2024-03-16
+1916,Fatima Singh,Silver,45-54,Seattle,2025-06-20
+1917,Amir Walker,Silver,25-34,Edmonton,2024-08-16
+1918,Taylor Khan,Bronze,35-44,New York,2024-12-17
+1919,Morgan Martin,Bronze,25-34,Boston,2023-08-15
+1920,Diego Scott,Silver,35-44,Edmonton,2024-04-19
+1921,Chen Roy,Bronze,35-44,Toronto,2024-03-03
+1922,Liam Garcia,Bronze,45-54,Chicago,2025-01-19
+1923,Diego Roy,Silver,25-34,Calgary,2023-11-18
+1924,Lucas Brown,Bronze,25-34,New York,2023-07-08
+1925,Sofia Singh,Silver,25-34,Edmonton,2022-04-06
+1926,Sofia Smith,Bronze,18-24,New York,2025-03-23
+1927,Jordan Brown,Bronze,25-34,Vancouver,2023-08-20
+1928,Maya Khan,Bronze,55+,Seattle,2024-12-29
+1929,Avery Smith,Bronze,25-34,Montreal,2024-07-18
+1930,Avery Wilson,Bronze,55+,New York,2022-01-03
+1931,Liam Lee,Bronze,25-34,Edmonton,2024-06-11
+1932,Riley Lee,Gold,35-44,Edmonton,2023-10-31
+1933,Emma Lopez,Gold,35-44,Toronto,2022-11-25
+1934,Liam Gagnon,Bronze,35-44,Vancouver,2022-12-29
+1935,Casey Khan,Silver,35-44,Toronto,2024-05-23
+1936,Sam Nguyen,Silver,35-44,Edmonton,2022-04-29
+1937,Chen Roy,Gold,55+,New York,2024-04-10
+1938,Emma Lee,Bronze,35-44,Edmonton,2025-03-05
+1939,Ethan Singh,Bronze,18-24,Boston,2022-04-29
+1940,Morgan Smith,Bronze,25-34,Vancouver,2022-01-11
+1941,Chen Singh,Bronze,35-44,Vancouver,2022-03-25
+1942,Noah Roy,Bronze,25-34,Calgary,2024-09-27
+1943,Morgan Wilson,Gold,25-34,Montreal,2025-03-07
+1944,Jordan Patel,Gold,35-44,Seattle,2025-09-15
+1945,Taylor Gagnon,Bronze,25-34,Seattle,2022-02-09
+1946,Noah Young,Bronze,45-54,Calgary,2023-10-23
+1947,Priya Singh,Bronze,35-44,Boston,2022-03-07
+1948,Emma Young,Bronze,35-44,Toronto,2023-05-24
+1949,Liam Smith,Silver,35-44,Ottawa,2023-02-26
+1950,Jamie Young,Bronze,45-54,Montreal,2024-04-09
+1951,Maya Scott,Gold,35-44,Vancouver,2025-05-30
+1952,Maya Smith,Platinum,55+,Montreal,2025-01-07
+1953,Chen Lopez,Silver,18-24,Edmonton,2022-03-29
+1954,Ethan Scott,Silver,35-44,Boston,2022-11-26
+1955,Morgan Young,Silver,35-44,Calgary,2023-01-12
+1956,Casey Scott,Bronze,25-34,Calgary,2022-12-10
+1957,Morgan Martin,Bronze,25-34,Toronto,2023-04-29
+1958,Lucas Tremblay,Silver,35-44,Montreal,2024-04-11
+1959,Sam Gagnon,Bronze,25-34,Seattle,2024-10-10
+1960,Sam Lee,Gold,55+,Seattle,2025-07-11
+1961,Diego Lee,Bronze,25-34,Ottawa,2024-08-21
+1962,Maya Wilson,Bronze,18-24,Toronto,2023-02-13
+1963,Emma Martin,Bronze,35-44,Seattle,2022-09-10
+1964,Maya Patel,Platinum,25-34,Ottawa,2023-06-01
+1965,Olivia Khan,Bronze,18-24,Edmonton,2024-12-31
+1966,Ethan Tremblay,Bronze,35-44,Seattle,2025-09-22
+1967,Ethan Khan,Bronze,25-34,Boston,2023-06-22
+1968,Morgan Gagnon,Silver,18-24,Edmonton,2022-08-30
+1969,Liam Roy,Platinum,35-44,Vancouver,2022-01-07
+1970,Sofia Kim,Bronze,35-44,Boston,2022-04-16
+1971,Liam Garcia,Gold,45-54,New York,2024-05-22
+1972,Diego Scott,Bronze,25-34,Seattle,2024-03-18
+1973,Taylor Khan,Silver,25-34,Edmonton,2024-05-31
+1974,Alex Brown,Bronze,55+,Chicago,2022-02-03
+1975,Hana Patel,Bronze,35-44,Boston,2023-08-22
+1976,Drew Singh,Silver,18-24,Toronto,2022-09-05
+1977,Sofia Roy,Silver,45-54,Montreal,2023-04-07
+1978,Noah Young,Bronze,18-24,Boston,2024-05-02
+1979,Liam Khan,Gold,45-54,Ottawa,2023-01-13
+1980,Jordan Singh,Platinum,35-44,Boston,2024-06-22
+1981,Diego Clark,Bronze,55+,Vancouver,2023-02-01
+1982,Olivia Brown,Silver,55+,Montreal,2023-12-01
+1983,Morgan Clark,Silver,25-34,Edmonton,2023-09-21
+1984,Lucas Singh,Bronze,35-44,Chicago,2023-06-10
+1985,Noah Lee,Gold,25-34,Seattle,2022-06-22
+1986,Wei Young,Bronze,35-44,Calgary,2024-02-29
+1987,Taylor Chen,Silver,35-44,Toronto,2025-09-18
+1988,Jordan Walker,Bronze,18-24,Seattle,2024-05-31
+1989,Olivia Scott,Bronze,18-24,Seattle,2024-10-18
+1990,Liam Patel,Silver,18-24,New York,2025-01-05
+1991,Wei Tremblay,Silver,18-24,New York,2022-02-22
+1992,Olivia Walker,Gold,25-34,Edmonton,2024-12-22
+1993,Chen Garcia,Platinum,55+,Toronto,2022-11-29
+1994,Jamie Tremblay,Bronze,25-34,Ottawa,2024-06-29
+1995,Priya Roy,Bronze,45-54,Ottawa,2025-09-09
+1996,Sofia Lopez,Bronze,45-54,Chicago,2025-05-10
+1997,Taylor Chen,Bronze,35-44,Toronto,2023-07-22
+1998,Maya Garcia,Bronze,25-34,Edmonton,2025-02-22
+1999,Alex Gagnon,Gold,45-54,Vancouver,2024-04-27
+2000,Sofia Kim,Silver,35-44,Toronto,2022-07-02
+2001,Jamie Gagnon,Bronze,35-44,Chicago,2022-11-25
+2002,Alex Wilson,Bronze,55+,Toronto,2025-08-03
+2003,Amir Scott,Silver,35-44,Seattle,2025-06-07
+2004,Riley Walker,Bronze,25-34,Boston,2025-05-06
+2005,Morgan Nguyen,Bronze,45-54,Boston,2023-06-11
+2006,Avery Clark,Bronze,25-34,Ottawa,2023-03-16
+2007,Ethan Roy,Bronze,45-54,Seattle,2025-01-09
+2008,Jamie Nguyen,Bronze,18-24,Edmonton,2022-01-28
+2009,Riley Patel,Silver,18-24,Calgary,2025-05-14
+2010,Morgan Walker,Bronze,25-34,New York,2024-04-07
+2011,Taylor Smith,Silver,18-24,Vancouver,2024-05-16
+2012,Liam Chen,Silver,55+,Montreal,2023-08-24
+2013,Wei Nguyen,Gold,18-24,Montreal,2025-09-03
+2014,Casey Wilson,Bronze,35-44,Edmonton,2024-10-23
+2015,Ethan Wilson,Bronze,25-34,New York,2022-03-15
+2016,Liam Kim,Bronze,55+,Montreal,2023-12-20
+2017,Riley Chen,Bronze,25-34,Montreal,2025-03-23
+2018,Priya Smith,Bronze,18-24,Chicago,2022-04-15
+2019,Ethan Lee,Silver,18-24,Edmonton,2024-10-06
+2020,Jamie Brown,Bronze,35-44,Seattle,2022-12-02
+2021,Avery Walker,Bronze,55+,Vancouver,2023-11-25
+2022,Sofia Nguyen,Bronze,55+,Montreal,2025-04-24
+2023,Priya Smith,Silver,25-34,Montreal,2023-11-06
+2024,Wei Singh,Gold,25-34,Edmonton,2022-02-21
+2025,Avery Roy,Silver,18-24,Boston,2022-01-29
+2026,Avery Brown,Silver,25-34,Edmonton,2024-10-06
+2027,Lucas Gagnon,Silver,35-44,Montreal,2025-06-29
+2028,Alex Brown,Silver,25-34,Chicago,2023-02-04
+2029,Chen Kim,Bronze,35-44,Edmonton,2025-07-05
+2030,Casey Martin,Silver,45-54,Vancouver,2023-09-13
+2031,Taylor Smith,Silver,18-24,Toronto,2022-03-22
+2032,Emma Kim,Bronze,25-34,Edmonton,2023-12-29
+2033,Sofia Garcia,Silver,25-34,New York,2025-08-26
+2034,Chen Wilson,Bronze,18-24,Chicago,2022-12-09
+2035,Sofia Nguyen,Silver,18-24,Montreal,2025-08-09
+2036,Jordan Lopez,Bronze,35-44,Ottawa,2024-06-12
+2037,Amir Young,Silver,18-24,Chicago,2023-06-27
+2038,Avery Smith,Gold,35-44,Edmonton,2024-08-08
+2039,Hana Lee,Bronze,45-54,Toronto,2023-07-04
+2040,Riley Lopez,Bronze,55+,Ottawa,2022-04-27
+2041,Fatima Chen,Bronze,35-44,Calgary,2025-04-07
+2042,Lucas Lopez,Bronze,18-24,New York,2023-05-28
+2043,Maya Lee,Platinum,18-24,Montreal,2024-02-15
+2044,Riley Young,Bronze,25-34,Vancouver,2024-10-16
+2045,Hana Scott,Bronze,55+,Boston,2022-04-24
+2046,Sofia Smith,Bronze,55+,Chicago,2024-09-15
+2047,Drew Wilson,Platinum,25-34,Calgary,2023-05-16
+2048,Diego Kim,Bronze,25-34,Calgary,2024-01-17
+2049,Liam Nguyen,Silver,25-34,Vancouver,2023-09-19
+2050,Lucas Garcia,Bronze,25-34,Ottawa,2024-12-01
+2051,Jordan Scott,Bronze,55+,Toronto,2022-09-14
+2052,Morgan Smith,Silver,25-34,Seattle,2022-05-28
+2053,Sam Roy,Bronze,25-34,Toronto,2023-07-18
+2054,Jordan Gagnon,Silver,25-34,Seattle,2022-06-11
+2055,Maya Garcia,Bronze,18-24,Montreal,2022-11-29
+2056,Alex Roy,Silver,25-34,New York,2024-06-19
+2057,Taylor Scott,Silver,45-54,Chicago,2025-01-26
+2058,Jamie Roy,Silver,18-24,Boston,2024-08-07
+2059,Alex Nguyen,Bronze,35-44,Boston,2023-03-12
+2060,Casey Tremblay,Silver,25-34,Montreal,2025-01-20
+2061,Sofia Young,Platinum,18-24,Edmonton,2023-07-11
+2062,Hana Chen,Bronze,18-24,New York,2022-09-06
+2063,Lucas Kim,Bronze,25-34,Calgary,2024-11-02
+2064,Sam Tremblay,Gold,18-24,Toronto,2023-12-09
+2065,Liam Wilson,Bronze,25-34,Chicago,2023-05-23
+2066,Alex Young,Silver,45-54,Ottawa,2024-06-24
+2067,Sofia Kim,Silver,35-44,Chicago,2024-09-19
+2068,Hana Scott,Bronze,55+,Chicago,2022-11-03
+2069,Hana Chen,Silver,25-34,Toronto,2022-06-10
+2070,Fatima Kim,Silver,35-44,Boston,2023-12-10
+2071,Sofia Clark,Bronze,35-44,New York,2022-03-12
+2072,Morgan Wilson,Gold,25-34,Montreal,2024-05-24
+2073,Taylor Chen,Bronze,25-34,Seattle,2023-08-26
+2074,Priya Clark,Bronze,25-34,Ottawa,2022-10-21
+2075,Chen Brown,Gold,45-54,Montreal,2024-03-31
+2076,Avery Kim,Bronze,25-34,Chicago,2023-05-30
+2077,Fatima Scott,Gold,25-34,Boston,2023-06-17
+2078,Casey Patel,Bronze,55+,Ottawa,2022-10-24
+2079,Ethan Garcia,Bronze,18-24,Ottawa,2024-07-15
+2080,Morgan Smith,Bronze,55+,Montreal,2025-05-22
+2081,Priya Brown,Silver,45-54,Toronto,2024-04-27
+2082,Noah Singh,Silver,45-54,Ottawa,2022-11-21
+2083,Ethan Walker,Gold,45-54,Edmonton,2025-02-15
+2084,Wei Patel,Platinum,25-34,Toronto,2022-06-15
+2085,Maya Walker,Silver,35-44,Montreal,2023-02-01
+2086,Drew Chen,Silver,35-44,Vancouver,2022-02-18
+2087,Maya Brown,Silver,35-44,Chicago,2025-03-08
+2088,Priya Garcia,Gold,25-34,Chicago,2022-03-03
+2089,Jamie Khan,Silver,18-24,Seattle,2024-01-19
+2090,Wei Roy,Gold,25-34,Vancouver,2022-09-20
+2091,Olivia Brown,Bronze,25-34,Edmonton,2022-10-18
+2092,Jordan Clark,Bronze,35-44,Edmonton,2024-04-13
+2093,Sam Martin,Silver,45-54,Seattle,2025-01-06
+2094,Riley Singh,Bronze,35-44,Boston,2022-01-25
+2095,Sam Young,Bronze,35-44,Chicago,2022-08-06
+2096,Priya Garcia,Platinum,25-34,Edmonton,2023-01-28
+2097,Sofia Smith,Bronze,25-34,Chicago,2025-07-16
+2098,Noah Roy,Bronze,25-34,Boston,2022-03-21
+2099,Liam Nguyen,Bronze,25-34,Boston,2022-09-02
+2100,Diego Singh,Bronze,18-24,New York,2023-07-08
+2101,Olivia Khan,Silver,25-34,Vancouver,2023-03-23
+2102,Avery Nguyen,Gold,25-34,New York,2022-03-08
+2103,Jamie Gagnon,Platinum,35-44,Vancouver,2024-01-11
+2104,Fatima Young,Silver,18-24,New York,2024-04-12
+2105,Casey Lee,Silver,25-34,Montreal,2022-08-31
+2106,Taylor Khan,Bronze,18-24,Boston,2024-08-01
+2107,Priya Khan,Gold,35-44,Edmonton,2022-03-19
+2108,Ethan Scott,Bronze,35-44,Boston,2024-09-28
+2109,Maya Garcia,Bronze,25-34,Montreal,2022-12-22
+2110,Liam Patel,Platinum,18-24,Boston,2022-11-04
+2111,Jordan Kim,Gold,55+,Seattle,2022-09-27
+2112,Amir Kim,Bronze,35-44,Ottawa,2025-04-04
+2113,Lucas Patel,Silver,35-44,Vancouver,2023-11-19
+2114,Wei Lee,Bronze,25-34,New York,2024-08-03
+2115,Avery Smith,Bronze,45-54,Seattle,2022-10-07
+2116,Sam Young,Bronze,45-54,Boston,2022-03-19
+2117,Emma Chen,Bronze,25-34,Calgary,2022-02-22
+2118,Riley Smith,Silver,35-44,Montreal,2023-08-27
+2119,Diego Nguyen,Bronze,25-34,Chicago,2023-03-24
+2120,Sofia Singh,Silver,35-44,Seattle,2024-11-17
+2121,Avery Chen,Bronze,25-34,Seattle,2024-12-16
+2122,Amir Smith,Gold,18-24,Vancouver,2023-03-02
+2123,Avery Chen,Silver,55+,Calgary,2023-08-17
+2124,Riley Patel,Gold,45-54,Montreal,2023-06-07
+2125,Fatima Brown,Bronze,25-34,Chicago,2024-07-13
+2126,Priya Brown,Silver,55+,Seattle,2024-05-12
+2127,Hana Garcia,Gold,25-34,Ottawa,2024-06-10
+2128,Avery Garcia,Bronze,25-34,Montreal,2022-03-18
+2129,Avery Tremblay,Bronze,45-54,Edmonton,2023-04-08
+2130,Emma Smith,Bronze,25-34,Calgary,2025-08-17
+2131,Casey Singh,Bronze,25-34,Calgary,2023-04-14
+2132,Jamie Lopez,Bronze,35-44,Vancouver,2022-08-28
+2133,Noah Scott,Bronze,18-24,New York,2022-10-01
+2134,Avery Young,Bronze,25-34,Seattle,2022-02-06
+2135,Sam Kim,Silver,25-34,Chicago,2024-12-05
+2136,Lucas Kim,Bronze,35-44,Calgary,2022-01-08
+2137,Diego Garcia,Bronze,18-24,Seattle,2024-03-27
+2138,Alex Lopez,Silver,25-34,New York,2023-07-02
+2139,Sam Lopez,Bronze,35-44,Ottawa,2022-05-10
+2140,Sofia Gagnon,Bronze,18-24,Boston,2025-04-26
+2141,Wei Clark,Bronze,25-34,Vancouver,2024-10-13
+2142,Morgan Wilson,Bronze,35-44,New York,2025-01-28
+2143,Taylor Lopez,Bronze,35-44,Boston,2025-07-07
+2144,Ethan Gagnon,Bronze,18-24,Chicago,2025-06-03
+2145,Lucas Garcia,Bronze,45-54,Chicago,2024-08-17
+2146,Sam Young,Platinum,35-44,Seattle,2024-01-02
+2147,Maya Tremblay,Gold,25-34,Edmonton,2024-08-12
+2148,Diego Scott,Bronze,35-44,Calgary,2023-09-07
+2149,Wei Lopez,Bronze,35-44,Calgary,2022-09-06
+2150,Alex Tremblay,Bronze,35-44,Chicago,2023-06-13
+2151,Riley Walker,Gold,35-44,Montreal,2023-10-02
+2152,Taylor Smith,Gold,35-44,Edmonton,2022-03-05
+2153,Olivia Lopez,Bronze,55+,New York,2025-03-07
+2154,Sofia Lopez,Bronze,35-44,Toronto,2025-05-31
+2155,Amir Lee,Bronze,45-54,New York,2023-07-30
+2156,Maya Clark,Gold,35-44,Montreal,2023-11-11
+2157,Avery Tremblay,Gold,45-54,Montreal,2025-02-26
+2158,Sofia Chen,Bronze,55+,New York,2023-09-16
+2159,Hana Wilson,Silver,18-24,Toronto,2024-07-31
+2160,Chen Smith,Bronze,18-24,Ottawa,2023-12-07
+2161,Olivia Wilson,Silver,35-44,Calgary,2023-01-07
+2162,Wei Chen,Gold,25-34,Edmonton,2024-12-23
+2163,Hana Brown,Bronze,35-44,Ottawa,2022-09-22
+2164,Chen Wilson,Bronze,45-54,Vancouver,2022-11-04
+2165,Sam Clark,Silver,55+,Vancouver,2024-08-05
+2166,Morgan Chen,Bronze,25-34,Edmonton,2024-08-30
+2167,Chen Clark,Gold,35-44,Vancouver,2025-07-31
+2168,Fatima Wilson,Bronze,18-24,Toronto,2024-08-31
+2169,Sofia Garcia,Gold,25-34,Edmonton,2022-02-03
+2170,Sofia Kim,Bronze,18-24,Seattle,2025-03-09
+2171,Sam Wilson,Bronze,25-34,Edmonton,2023-07-22
+2172,Wei Chen,Bronze,25-34,Vancouver,2022-01-12
+2173,Drew Kim,Bronze,35-44,Calgary,2024-03-04
+2174,Sam Patel,Bronze,35-44,Ottawa,2022-08-22
+2175,Lucas Brown,Silver,25-34,Montreal,2023-07-24
+2176,Emma Martin,Bronze,18-24,Calgary,2023-10-08
+2177,Liam Wilson,Bronze,18-24,Edmonton,2022-04-12
+2178,Maya Gagnon,Bronze,55+,Calgary,2025-03-11
+2179,Hana Chen,Bronze,55+,Chicago,2023-12-01
+2180,Olivia Scott,Gold,25-34,New York,2025-08-15
+2181,Alex Lopez,Gold,25-34,Toronto,2023-09-29
+2182,Maya Scott,Bronze,25-34,Edmonton,2024-03-25
+2183,Noah Gagnon,Silver,35-44,Edmonton,2025-01-17
+2184,Morgan Nguyen,Silver,25-34,Toronto,2022-10-18
+2185,Diego Kim,Platinum,18-24,Vancouver,2025-05-30
+2186,Liam Patel,Bronze,25-34,Seattle,2022-09-10
+2187,Casey Gagnon,Bronze,25-34,Vancouver,2025-09-26
+2188,Jamie Martin,Bronze,25-34,Calgary,2024-05-26
+2189,Jamie Chen,Gold,18-24,Montreal,2023-12-12
+2190,Morgan Young,Silver,35-44,Toronto,2022-10-15
+2191,Diego Nguyen,Bronze,25-34,Vancouver,2024-02-19
+2192,Avery Martin,Bronze,25-34,Boston,2024-01-28
+2193,Drew Khan,Silver,35-44,Chicago,2025-09-09
+2194,Riley Tremblay,Gold,25-34,New York,2025-02-17
+2195,Avery Martin,Bronze,45-54,Seattle,2023-10-24
+2196,Morgan Gagnon,Silver,55+,New York,2023-06-19
+2197,Alex Tremblay,Bronze,18-24,New York,2023-06-15
+2198,Maya Kim,Bronze,45-54,Calgary,2023-06-03
+2199,Jamie Chen,Silver,35-44,Toronto,2022-01-19
+2200,Sam Walker,Silver,35-44,Calgary,2022-02-19
+2201,Drew Nguyen,Platinum,25-34,Seattle,2024-10-26
+2202,Drew Young,Bronze,25-34,Edmonton,2022-12-15
+2203,Riley Clark,Bronze,18-24,Boston,2023-07-18
+2204,Riley Patel,Bronze,55+,Toronto,2024-08-14
+2205,Riley Garcia,Bronze,35-44,Montreal,2024-04-12
+2206,Taylor Martin,Bronze,25-34,Montreal,2023-05-09
+2207,Avery Khan,Bronze,25-34,Vancouver,2024-10-27
+2208,Maya Wilson,Bronze,18-24,Chicago,2022-08-05
+2209,Wei Patel,Bronze,18-24,Calgary,2023-10-10
+2210,Ethan Nguyen,Bronze,35-44,New York,2022-05-25
+2211,Sofia Scott,Silver,25-34,New York,2023-12-30
+2212,Lucas Roy,Bronze,45-54,Calgary,2022-05-11
+2213,Jamie Clark,Silver,35-44,Chicago,2025-07-13
+2214,Riley Roy,Gold,35-44,Montreal,2024-06-22
+2215,Lucas Young,Silver,45-54,Toronto,2022-12-03
+2216,Diego Tremblay,Bronze,18-24,Boston,2024-04-19
+2217,Fatima Nguyen,Bronze,35-44,New York,2023-04-25
+2218,Noah Young,Silver,35-44,Montreal,2023-12-12
+2219,Olivia Young,Silver,25-34,Seattle,2022-08-18
+2220,Avery Garcia,Bronze,18-24,Ottawa,2023-11-17
+2221,Avery Brown,Bronze,25-34,Montreal,2022-05-27
+2222,Ethan Roy,Silver,18-24,Ottawa,2022-07-29
+2223,Sofia Wilson,Bronze,25-34,Ottawa,2024-03-11
+2224,Jamie Patel,Silver,18-24,Boston,2023-11-17
+2225,Liam Clark,Bronze,35-44,Boston,2023-02-07
+2226,Chen Chen,Bronze,18-24,New York,2022-03-24
+2227,Wei Khan,Gold,18-24,Seattle,2023-08-04
+2228,Emma Tremblay,Bronze,25-34,Toronto,2025-06-22
+2229,Noah Smith,Silver,18-24,New York,2024-08-28
+2230,Jordan Walker,Bronze,55+,Ottawa,2022-03-21
+2231,Jordan Garcia,Bronze,25-34,Chicago,2025-07-08
+2232,Noah Walker,Gold,25-34,New York,2023-08-04
+2233,Wei Tremblay,Bronze,18-24,Boston,2024-02-28
+2234,Lucas Young,Bronze,25-34,Edmonton,2022-01-01
+2235,Fatima Khan,Gold,35-44,Vancouver,2023-03-01
+2236,Priya Clark,Silver,45-54,New York,2024-12-13
+2237,Maya Nguyen,Silver,25-34,Seattle,2023-03-30
+2238,Chen Garcia,Bronze,35-44,Ottawa,2022-08-16
+2239,Diego Brown,Bronze,25-34,Seattle,2022-05-05
+2240,Chen Kim,Silver,45-54,Boston,2025-06-21
+2241,Wei Chen,Bronze,35-44,Toronto,2025-01-18
+2242,Amir Tremblay,Bronze,25-34,Chicago,2022-03-02
+2243,Wei Brown,Silver,35-44,Ottawa,2025-06-21
+2244,Liam Chen,Bronze,45-54,New York,2025-01-29
+2245,Olivia Brown,Bronze,25-34,Ottawa,2023-05-09
+2246,Morgan Patel,Bronze,55+,Ottawa,2024-06-18
+2247,Ethan Chen,Bronze,45-54,New York,2022-12-20
+2248,Jamie Lee,Silver,18-24,New York,2022-12-09
+2249,Avery Brown,Gold,45-54,New York,2024-09-05
+2250,Riley Garcia,Bronze,35-44,Vancouver,2022-10-05
+2251,Ethan Kim,Bronze,25-34,Seattle,2023-05-02
+2252,Hana Lopez,Silver,25-34,Toronto,2023-05-06
+2253,Alex Brown,Bronze,45-54,Seattle,2022-07-25
+2254,Jamie Martin,Bronze,35-44,Vancouver,2025-02-08
+2255,Riley Scott,Gold,25-34,New York,2024-07-12
+2256,Jamie Kim,Silver,18-24,Chicago,2025-03-26
+2257,Taylor Young,Bronze,25-34,Montreal,2023-12-19
+2258,Fatima Lopez,Platinum,55+,Calgary,2022-08-29
+2259,Avery Tremblay,Bronze,35-44,Seattle,2023-01-18
+2260,Ethan Wilson,Gold,18-24,Seattle,2023-04-30
+2261,Hana Walker,Silver,45-54,Montreal,2025-07-14
+2262,Liam Scott,Silver,45-54,Edmonton,2022-11-22
+2263,Amir Roy,Gold,25-34,Vancouver,2024-08-07
+2264,Alex Tremblay,Silver,18-24,Edmonton,2022-06-18
+2265,Wei Martin,Bronze,35-44,Vancouver,2025-08-02
+2266,Alex Nguyen,Bronze,18-24,Toronto,2024-06-04
+2267,Ethan Lopez,Silver,25-34,Chicago,2023-08-14
+2268,Alex Kim,Silver,35-44,New York,2023-04-19
+2269,Jordan Khan,Bronze,55+,Calgary,2023-05-01
+2270,Amir Clark,Silver,25-34,Ottawa,2022-11-05
+2271,Noah Lee,Silver,45-54,Toronto,2024-04-01
+2272,Diego Lee,Bronze,55+,Calgary,2025-04-01
+2273,Wei Lopez,Bronze,18-24,New York,2022-11-27
+2274,Noah Gagnon,Bronze,25-34,Montreal,2024-10-22
+2275,Liam Clark,Bronze,35-44,Boston,2024-02-15
+2276,Sam Smith,Bronze,35-44,Vancouver,2024-11-26
+2277,Jordan Martin,Bronze,25-34,Toronto,2024-11-20
+2278,Ethan Singh,Bronze,35-44,Edmonton,2022-02-23
+2279,Taylor Clark,Bronze,35-44,Ottawa,2022-01-30
+2280,Sofia Lee,Silver,35-44,Toronto,2025-06-07
+2281,Maya Wilson,Bronze,35-44,Ottawa,2022-08-01
+2282,Alex Patel,Platinum,18-24,Montreal,2024-02-27
+2283,Fatima Garcia,Gold,18-24,Edmonton,2024-10-28
+2284,Ethan Khan,Silver,18-24,Chicago,2023-11-22
+2285,Jamie Singh,Platinum,55+,Montreal,2022-01-09
+2286,Ethan Tremblay,Gold,55+,Toronto,2022-01-15
+2287,Maya Clark,Bronze,45-54,Ottawa,2024-07-06
+2288,Ethan Lopez,Silver,18-24,Vancouver,2025-05-14
+2289,Jordan Patel,Bronze,35-44,Montreal,2023-04-16
+2290,Riley Chen,Silver,18-24,Vancouver,2024-01-16
+2291,Morgan Scott,Bronze,25-34,Chicago,2025-07-03
+2292,Morgan Khan,Bronze,25-34,Vancouver,2025-02-04
+2293,Noah Lee,Bronze,45-54,New York,2024-01-11
+2294,Casey Garcia,Platinum,18-24,New York,2024-06-17
+2295,Emma Chen,Bronze,35-44,Ottawa,2025-08-09
+2296,Ethan Smith,Bronze,55+,Montreal,2024-12-27
+2297,Sam Khan,Bronze,35-44,Calgary,2023-07-24
+2298,Emma Smith,Bronze,18-24,Calgary,2024-08-07
+2299,Fatima Smith,Gold,55+,Toronto,2023-03-27
+2300,Diego Khan,Silver,35-44,New York,2025-06-15
+2301,Hana Young,Bronze,25-34,Vancouver,2022-05-09
+2302,Jamie Lopez,Bronze,35-44,Vancouver,2022-11-05
+2303,Casey Roy,Bronze,45-54,New York,2023-04-20
+2304,Riley Roy,Bronze,25-34,Chicago,2022-10-04
+2305,Chen Wilson,Gold,25-34,Seattle,2024-03-26
+2306,Jordan Garcia,Silver,25-34,Chicago,2024-09-03
+2307,Lucas Kim,Bronze,18-24,Calgary,2025-05-04
+2308,Noah Wilson,Silver,45-54,Ottawa,2023-11-18
+2309,Jamie Martin,Bronze,18-24,Montreal,2024-05-01
+2310,Emma Clark,Silver,25-34,Vancouver,2024-03-31
+2311,Emma Scott,Silver,25-34,Vancouver,2022-01-05
+2312,Amir Tremblay,Silver,25-34,Montreal,2024-08-28
+2313,Drew Brown,Silver,25-34,Ottawa,2022-02-01
+2314,Alex Patel,Gold,35-44,Ottawa,2024-01-20
+2315,Lucas Brown,Bronze,25-34,New York,2025-10-01
+2316,Taylor Chen,Bronze,18-24,Calgary,2024-12-15
+2317,Riley Patel,Bronze,45-54,Toronto,2023-11-25
+2318,Jordan Lopez,Silver,55+,Edmonton,2023-03-13
+2319,Amir Roy,Silver,25-34,Seattle,2025-02-20
+2320,Emma Young,Silver,25-34,Calgary,2025-03-22
+2321,Chen Smith,Silver,18-24,Vancouver,2023-05-20
+2322,Diego Tremblay,Bronze,18-24,Montreal,2022-05-28
+2323,Alex Wilson,Silver,25-34,Vancouver,2024-03-08
+2324,Sofia Tremblay,Silver,55+,Montreal,2024-05-18
+2325,Jamie Chen,Bronze,35-44,Chicago,2025-07-03
+2326,Drew Scott,Bronze,25-34,Chicago,2025-05-04
+2327,Avery Singh,Bronze,55+,Vancouver,2022-11-10
+2328,Taylor Patel,Bronze,25-34,Chicago,2022-12-13
+2329,Taylor Martin,Silver,25-34,Seattle,2025-09-27
+2330,Priya Roy,Gold,25-34,Toronto,2023-03-24
+2331,Amir Martin,Silver,25-34,Calgary,2023-09-20
+2332,Taylor Brown,Bronze,45-54,New York,2023-02-23
+2333,Jamie Gagnon,Silver,25-34,Calgary,2023-06-23
+2334,Jamie Nguyen,Silver,35-44,Calgary,2024-02-13
+2335,Sofia Wilson,Bronze,25-34,Calgary,2023-02-05
+2336,Jordan Walker,Gold,55+,New York,2023-07-20
+2337,Casey Clark,Bronze,35-44,Montreal,2023-04-29
+2338,Amir Brown,Bronze,25-34,Edmonton,2022-05-28
+2339,Liam Martin,Bronze,18-24,Montreal,2024-12-13
+2340,Olivia Tremblay,Bronze,55+,Seattle,2025-05-06
+2341,Avery Patel,Gold,25-34,Toronto,2023-11-06
+2342,Ethan Tremblay,Bronze,25-34,Toronto,2022-10-08
+2343,Maya Khan,Bronze,45-54,Toronto,2024-05-30
+2344,Diego Chen,Bronze,18-24,Vancouver,2024-01-02
+2345,Alex Khan,Bronze,25-34,New York,2024-01-26
+2346,Alex Tremblay,Bronze,25-34,Chicago,2024-03-25
+2347,Hana Clark,Bronze,25-34,Calgary,2024-09-10
+2348,Ethan Gagnon,Silver,25-34,Ottawa,2022-02-25
+2349,Sam Tremblay,Bronze,25-34,Vancouver,2022-05-17
+2350,Jamie Smith,Silver,18-24,Ottawa,2022-05-12
+2351,Fatima Tremblay,Bronze,18-24,Calgary,2022-07-31
+2352,Liam Clark,Silver,18-24,Boston,2025-08-24
+2353,Sofia Singh,Gold,55+,Toronto,2024-09-27
+2354,Wei Kim,Bronze,35-44,Boston,2024-06-29
+2355,Lucas Wilson,Bronze,25-34,Montreal,2024-08-15
+2356,Jamie Lopez,Gold,25-34,New York,2022-02-15
+2357,Fatima Roy,Bronze,35-44,Seattle,2022-10-20
+2358,Alex Kim,Silver,18-24,Boston,2024-12-24
+2359,Fatima Scott,Bronze,25-34,New York,2023-09-26
+2360,Priya Patel,Bronze,35-44,New York,2023-11-28
+2361,Noah Gagnon,Silver,25-34,Ottawa,2024-10-24
+2362,Diego Tremblay,Gold,45-54,Ottawa,2022-04-14
+2363,Jamie Roy,Bronze,45-54,Vancouver,2024-12-30
+2364,Jordan Clark,Silver,45-54,New York,2024-07-21
+2365,Jordan Walker,Silver,18-24,New York,2023-07-07
+2366,Fatima Walker,Bronze,18-24,Boston,2023-11-16
+2367,Lucas Chen,Bronze,18-24,Vancouver,2022-04-12
+2368,Amir Wilson,Bronze,45-54,Seattle,2022-10-08
+2369,Sam Brown,Bronze,55+,Calgary,2022-12-04
+2370,Avery Kim,Silver,55+,Montreal,2025-04-17
+2371,Riley Roy,Bronze,25-34,Boston,2022-06-04
+2372,Priya Garcia,Bronze,45-54,Ottawa,2023-02-04
+2373,Ethan Garcia,Silver,25-34,Calgary,2022-06-30
+2374,Lucas Chen,Silver,45-54,Boston,2023-01-25
+2375,Chen Brown,Silver,25-34,Boston,2022-01-15
+2376,Sam Nguyen,Silver,18-24,Montreal,2023-01-09
+2377,Amir Clark,Bronze,18-24,Ottawa,2024-09-18
+2378,Casey Lee,Silver,55+,Toronto,2024-11-17
+2379,Noah Nguyen,Bronze,25-34,Toronto,2023-06-04
+2380,Wei Walker,Bronze,25-34,Seattle,2024-08-25
+2381,Hana Gagnon,Bronze,25-34,Boston,2024-04-27
+2382,Jordan Singh,Silver,25-34,Edmonton,2025-05-22
+2383,Priya Patel,Silver,55+,Edmonton,2025-01-07
+2384,Noah Smith,Bronze,18-24,Vancouver,2022-11-11
+2385,Jordan Smith,Gold,18-24,Ottawa,2024-03-17
+2386,Jamie Lopez,Gold,45-54,Toronto,2024-12-13
+2387,Morgan Scott,Bronze,25-34,New York,2023-02-23
+2388,Riley Smith,Silver,18-24,Toronto,2024-02-25
+2389,Avery Khan,Bronze,18-24,Ottawa,2023-07-03
+2390,Jordan Tremblay,Platinum,25-34,Boston,2023-02-27
+2391,Chen Martin,Bronze,25-34,Edmonton,2022-10-01
+2392,Avery Lopez,Bronze,18-24,Calgary,2022-02-18
+2393,Chen Brown,Bronze,25-34,Montreal,2024-10-24
+2394,Noah Smith,Bronze,35-44,Ottawa,2025-01-26
+2395,Jamie Martin,Silver,45-54,Calgary,2024-06-11
+2396,Morgan Scott,Bronze,45-54,Vancouver,2022-11-27
+2397,Hana Chen,Bronze,25-34,Edmonton,2022-01-26
+2398,Drew Patel,Silver,25-34,Ottawa,2024-05-15
+2399,Maya Nguyen,Gold,55+,Montreal,2022-10-01
+2400,Drew Martin,Silver,35-44,Ottawa,2024-01-22
+2401,Emma Martin,Bronze,25-34,Calgary,2025-08-22
+2402,Casey Lopez,Bronze,25-34,Montreal,2022-01-07
+2403,Ethan Lopez,Bronze,25-34,Montreal,2024-03-01
+2404,Wei Clark,Gold,25-34,Edmonton,2025-09-24
+2405,Drew Gagnon,Silver,25-34,Calgary,2023-04-03
+2406,Casey Singh,Silver,18-24,Montreal,2025-01-20
+2407,Liam Martin,Gold,55+,New York,2025-02-08
+2408,Sofia Chen,Bronze,35-44,Vancouver,2023-10-29
+2409,Chen Garcia,Silver,35-44,Vancouver,2023-02-25
+2410,Liam Young,Bronze,25-34,Calgary,2024-07-21
+2411,Liam Walker,Bronze,35-44,Ottawa,2024-04-28
+2412,Fatima Scott,Bronze,35-44,Calgary,2023-10-15
+2413,Maya Wilson,Bronze,18-24,Edmonton,2022-09-22
+2414,Morgan Kim,Gold,35-44,Ottawa,2024-10-17
+2415,Fatima Roy,Bronze,35-44,Edmonton,2022-10-17
+2416,Avery Nguyen,Gold,45-54,Toronto,2022-07-04
+2417,Drew Singh,Silver,25-34,New York,2022-04-03
+2418,Hana Kim,Silver,45-54,Toronto,2023-09-04
+2419,Taylor Tremblay,Gold,25-34,Ottawa,2022-06-14
+2420,Chen Young,Bronze,18-24,Vancouver,2023-04-05
+2421,Lucas Nguyen,Bronze,18-24,New York,2022-11-28
+2422,Jordan Patel,Bronze,18-24,Boston,2023-09-22
+2423,Sofia Lopez,Bronze,25-34,Calgary,2024-12-01
+2424,Amir Tremblay,Gold,25-34,Ottawa,2023-09-10
+2425,Taylor Young,Bronze,35-44,Vancouver,2024-02-03
+2426,Diego Khan,Bronze,18-24,Boston,2022-07-16
+2427,Jordan Tremblay,Bronze,55+,Toronto,2022-06-04
+2428,Sam Walker,Bronze,18-24,Boston,2025-08-30
+2429,Chen Lee,Silver,35-44,Vancouver,2024-04-29
+2430,Riley Lopez,Bronze,55+,Toronto,2022-01-22
+2431,Sam Gagnon,Silver,45-54,New York,2024-02-14
+2432,Fatima Khan,Silver,35-44,Toronto,2022-01-14
+2433,Chen Martin,Silver,35-44,Vancouver,2022-04-16
+2434,Wei Garcia,Bronze,18-24,Ottawa,2023-05-27
+2435,Diego Walker,Silver,18-24,Edmonton,2024-06-18
+2436,Morgan Scott,Bronze,25-34,Toronto,2024-04-29
+2437,Sam Martin,Bronze,18-24,Toronto,2024-12-19
+2438,Morgan Walker,Silver,25-34,Edmonton,2022-09-04
+2439,Priya Wilson,Silver,25-34,Chicago,2022-09-20
+2440,Olivia Lopez,Bronze,55+,Toronto,2024-01-01
+2441,Drew Scott,Gold,45-54,Calgary,2025-04-05
+2442,Maya Patel,Bronze,45-54,Seattle,2024-09-17
+2443,Alex Singh,Silver,35-44,Montreal,2024-07-05
+2444,Ethan Kim,Platinum,18-24,Calgary,2022-05-09
+2445,Avery Roy,Silver,18-24,Seattle,2025-04-17
+2446,Amir Martin,Gold,35-44,Boston,2025-09-10
+2447,Sam Smith,Silver,35-44,Montreal,2024-03-08
+2448,Maya Wilson,Silver,25-34,Boston,2023-04-07
+2449,Chen Martin,Silver,25-34,New York,2024-06-26
+2450,Sofia Martin,Silver,25-34,Edmonton,2024-05-30
+2451,Avery Walker,Bronze,25-34,Calgary,2025-06-26
+2452,Emma Khan,Silver,25-34,Chicago,2022-06-01
+2453,Morgan Lee,Bronze,25-34,Seattle,2023-12-07
+2454,Jamie Lopez,Platinum,35-44,Chicago,2024-08-29
+2455,Lucas Lee,Bronze,55+,New York,2023-04-24
+2456,Diego Kim,Bronze,25-34,Vancouver,2025-02-25
+2457,Alex Lee,Gold,35-44,Ottawa,2022-03-30
+2458,Lucas Nguyen,Bronze,45-54,Ottawa,2022-05-25
+2459,Jordan Chen,Bronze,18-24,Chicago,2024-12-19
+2460,Chen Kim,Silver,35-44,Vancouver,2022-06-22
+2461,Hana Clark,Bronze,25-34,Ottawa,2023-07-28
+2462,Liam Walker,Bronze,35-44,Montreal,2023-01-21
+2463,Avery Tremblay,Bronze,18-24,Toronto,2024-07-31
+2464,Drew Martin,Bronze,55+,Edmonton,2022-01-17
+2465,Morgan Singh,Bronze,55+,Edmonton,2023-05-04
+2466,Alex Khan,Bronze,18-24,Vancouver,2025-09-12
+2467,Fatima Gagnon,Bronze,25-34,Boston,2023-05-21
+2468,Drew Martin,Bronze,18-24,Calgary,2024-03-30
+2469,Hana Martin,Bronze,45-54,Chicago,2025-09-15
+2470,Jamie Garcia,Silver,35-44,Boston,2024-04-12
+2471,Sofia Wilson,Silver,18-24,Toronto,2024-10-31
+2472,Amir Clark,Bronze,45-54,Montreal,2025-08-06
+2473,Alex Khan,Bronze,25-34,Boston,2024-04-25
+2474,Drew Kim,Gold,25-34,Edmonton,2025-02-13
+2475,Riley Brown,Silver,25-34,Boston,2023-11-28
+2476,Avery Tremblay,Bronze,25-34,Vancouver,2025-01-20
+2477,Lucas Nguyen,Bronze,25-34,Toronto,2024-05-29
+2478,Drew Patel,Bronze,25-34,Boston,2023-04-11
+2479,Morgan Brown,Gold,25-34,Boston,2024-02-04
+2480,Fatima Young,Gold,55+,New York,2023-04-04
+2481,Drew Kim,Gold,25-34,Calgary,2023-06-29
+2482,Hana Singh,Bronze,55+,Toronto,2023-02-04
+2483,Diego Nguyen,Bronze,35-44,Boston,2023-11-04
+2484,Casey Garcia,Bronze,35-44,New York,2023-04-20
+2485,Alex Gagnon,Bronze,25-34,New York,2024-05-07
+2486,Chen Brown,Bronze,45-54,Ottawa,2023-05-22
+2487,Amir Lopez,Silver,25-34,Boston,2023-11-04
+2488,Amir Gagnon,Bronze,18-24,Boston,2022-07-11
+2489,Noah Nguyen,Gold,18-24,Seattle,2023-06-14
+2490,Diego Lee,Bronze,18-24,Edmonton,2023-05-03
+2491,Fatima Scott,Bronze,55+,Boston,2025-08-09
+2492,Morgan Wilson,Gold,55+,Calgary,2023-09-05
+2493,Morgan Tremblay,Silver,35-44,New York,2022-01-30
+2494,Hana Young,Bronze,18-24,New York,2023-02-28
+2495,Diego Clark,Silver,45-54,Boston,2024-09-26
+2496,Olivia Kim,Bronze,35-44,Seattle,2022-08-15
+2497,Hana Martin,Bronze,25-34,Toronto,2022-08-12
+2498,Olivia Singh,Bronze,25-34,Boston,2023-05-27
+2499,Sofia Gagnon,Bronze,35-44,Boston,2023-05-04
+2500,Olivia Roy,Silver,18-24,Edmonton,2023-10-21

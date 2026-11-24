@@ -1,0 +1,13 @@
+StoreID,StoreName,City,Province_State,Country,Region,Latitude,Longitude,StoreType,YearOpened,SquareFeet
+1,BrewLine Queen West,Toronto,Ontario,Canada,East,43.6487,-79.4021,Flagship,2019,2400
+2,BrewLine Yorkville,Toronto,Ontario,Canada,East,43.6709,-79.3933,Standard,2020,1600
+3,BrewLine Byward,Ottawa,Ontario,Canada,East,45.4286,-75.6919,Standard,2021,1500
+4,BrewLine Old Montreal,Montreal,Quebec,Canada,East,45.5048,-73.554,Flagship,2019,2300
+5,BrewLine Gastown,Vancouver,British Columbia,Canada,West,49.2827,-123.1087,Flagship,2020,2200
+6,BrewLine Kitsilano,Vancouver,British Columbia,Canada,West,49.2684,-123.155,Drive-thru,2022,1800
+7,BrewLine Stephen Ave,Calgary,Alberta,Canada,West,51.0447,-114.0719,Standard,2021,1700
+8,BrewLine Whyte Ave,Edmonton,Alberta,Canada,West,53.5187,-113.496,Drive-thru,2023,1900
+9,BrewLine Midtown,New York,New York,USA,US,40.7549,-73.984,Flagship,2021,2100
+10,BrewLine South End,Boston,Massachusetts,USA,US,42.3412,-71.0722,Standard,2022,1500
+11,BrewLine Pike Place,Seattle,Washington,USA,US,47.6097,-122.3331,Standard,2022,1700
+12,BrewLine The Loop,Chicago,Illinois,USA,US,41.8781,-87.6298,Drive-thru,2023,2000
